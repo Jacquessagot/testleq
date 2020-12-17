@@ -1,0 +1,831 @@
+/* screen - ressource-1 */
+
+.courier-regular-normal-abbey-20px {
+  color: var(--abbey);
+  font-family: 'Courier-Regular', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+.couriernew-bold-cornflower-blue-20px {
+  color: var(--cornflower-blue);
+  font-family: 'CourierNew-Bold', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+}
+.couriernew-bold-white-20px {
+  color: var(--white);
+  font-family: 'CourierNew-Bold', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+}
+.couriernew-bold-white-21px {
+  color: var(--white);
+  font-family: 'CourierNew-Bold', Helvetica, Arial, serif;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 700;
+}
+.couriernew-regular-normal-white-20px {
+  color: var(--white);
+  font-family: 'CourierNew-Regular', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+.inter-medium-white-23px {
+  color: var(--white);
+  font-family: 'Inter', Helvetica, Arial, serif;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 500;
+}
+.inter-medium-white-24px {
+  color: var(--white);
+  font-family: 'Inter', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+}
+.montserrat-bold-abbey-25px {
+  color: var(--abbey);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 700;
+}
+.montserrat-bold-white-30px {
+  color: var(--white);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+}
+.montserrat-bold-white-67px {
+  color: var(--white);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-size: 67px;
+  font-style: normal;
+  font-weight: 700;
+}
+.ressource-1 {
+  background-color: var(--vulcan-2);
+  height: 1080px;
+  position: relative;
+  width: 1920px;
+}
+.ressource-1 .barre-C61RwL {
+  background-color: transparent;
+  height: 5px;
+  left: 480px;
+  position: absolute;
+  top: 103px;
+  width: 678px;
+}
+.ressource-1 .composant-1-4-036jSs {
+  background-color: transparent;
+  height: calc(100.00% - 6px);
+  left: 2px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 2px);
+}
+.ressource-1 .composant-14-4-C61RwL {
+  background-color: transparent;
+  height: 23px;
+  left: 653px;
+  position: absolute;
+  top: 73px;
+  width: 132px;
+}
+.ressource-1 .composant-15-4-C61RwL {
+  background-color: transparent;
+  height: 23px;
+  left: 489px;
+  position: absolute;
+  top: 73px;
+  width: 81px;
+}
+.ressource-1 .composant-16-1-3nR5Ig {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.ressource-1 .composant-17-4-C61RwL {
+  background-color: transparent;
+  height: 23px;
+  left: 831px;
+  position: absolute;
+  top: 73px;
+  width: 160px;
+}
+.ressource-1 .composant-18-4-C61RwL {
+  background-color: transparent;
+  height: 23px;
+  left: 1035px;
+  position: absolute;
+  top: 73px;
+  width: 134px;
+}
+.ressource-1 .composant-2-18-C61RwL {
+  background-color: var(--cornflower-blue);
+  border-radius: 15px;
+  height: 72px;
+  left: 140px;
+  position: absolute;
+  top: 808px;
+  width: 317px;
+}
+.ressource-1 .composant-3-23-C61RwL {
+  background-color: transparent;
+  border: 3px solid var(--cornflower-blue);
+  border-radius: 15px;
+  height: 67px;
+  left: 1657px;
+  position: absolute;
+  top: 52px;
+  width: 230px;
+}
+.ressource-1 .deposer-mon-projet-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 174px;
+  letter-spacing: 1.36px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 827px;
+  white-space: nowrap;
+  width: auto;
+}
+.ressource-1 .des-free-l-s-digitaux-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 140px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 637px;
+  white-space: nowrap;
+  width: auto;
+}
+.ressource-1 .ellipse-1-036jSs {
+  background-color: transparent;
+  height: 11px;
+  position: absolute;
+  right: calc(47.67% - 5px);
+  top: 22px;
+  width: 11px;
+}
+.ressource-1 .ellipse-3-036jSs {
+  background-color: transparent;
+  bottom: 0px;
+  height: 74px;
+  left: 0px;
+  position: absolute;
+  width: 74px;
+}
+.ressource-1 .expertises-Z0GxRo {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 1.30px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: -6px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.ressource-1 .formes-C61RwL {
+  background-color: transparent;
+  height: 762px;
+  left: 1343px;
+  position: absolute;
+  top: 238px;
+  width: 741px;
+}
+.ressource-1 .grille-de--petition-1-036jSs {
+  background-color: transparent;
+  height: 326px;
+  position: absolute;
+  right: calc(34.14% - 55px);
+  top: 21px;
+  width: 161px;
+}
+.ressource-1 .grille-de--petition-2-036jSs {
+  background-color: transparent;
+  bottom: 21px;
+  height: 326px;
+  left: 45px;
+  position: absolute;
+  width: 325px;
+}
+.ressource-1 .grille-de--petition-4-9pMjwt {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.ressource-1 .groupe-de-masques-2-9pMjwt {
+  background-color: transparent;
+  height: 100%;
+  overflow: hidden;
+  position: absolute;
+  right: 10px;
+  top: 0px;
+  width: 95px;
+}
+.ressource-1 .icon-ionic-arrow-down-C61RwL {
+  background-color: transparent;
+  height: 25px;
+  left: 938px;
+  position: absolute;
+  top: 996px;
+  width: 43px;
+}
+.ressource-1 .les-meille-os-experts-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 140px;
+  letter-spacing: 0.00px;
+  line-height: 79px;
+  position: absolute;
+  text-align: left;
+  top: 352px;
+  white-space: nowrap;
+  width: auto;
+}
+.ressource-1 .ligne-3-Hhv5YU {
+  background-color: transparent;
+  height: 5px;
+  left: 0px;
+  position: absolute;
+  top: -2px;
+  width: 96px;
+}
+.ressource-1 .ligne-3-XniE9Y {
+  background-color: transparent;
+  height: 5px;
+  left: 0px;
+  position: absolute;
+  top: -2px;
+  width: 96px;
+}
+.ressource-1 .ligne-3-fUkZpu {
+  background-color: transparent;
+  height: 5px;
+  left: 0px;
+  position: absolute;
+  top: -2px;
+  width: 96px;
+}
+.ressource-1 .ligne-3-sXunXF {
+  background-color: transparent;
+  height: 5px;
+  left: 0px;
+  position: absolute;
+  top: -2px;
+  width: 96px;
+}
+.ressource-1 .logo-blanc-C61RwL {
+  background-color: transparent;
+  height: 105px;
+  left: 113px;
+  position: absolute;
+  top: 43px;
+  width: 186px;
+}
+.ressource-1 .methodologie-4bgxM3 {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 1.30px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: -6px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.ressource-1 .nous-contacter-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 1680px;
+  letter-spacing: 1.30px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 68px;
+  white-space: nowrap;
+  width: auto;
+}
+.ressource-1 .offres-kmXxhP {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 1.30px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: -6px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.ressource-1 .rectangle-1-uGi1a9 {
+  background-color: transparent;
+  height: 338px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 338px;
+}
+.ressource-1 .rectangle-2-uGi1a9 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 348px;
+  position: absolute;
+  right: 1px;
+  width: 364px;
+}
+.ressource-1 .rectangle-8-T0kAMz {
+  background-color: var(--cornflower-blue);
+  height: 100%;
+  left: -76px;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 76px);
+}
+.ressource-1 .ressources-Uk9yp5 {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 1.30px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: -6px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.ressource-1 .se-connecter-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 1467px;
+  letter-spacing: 1.30px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 67px;
+  white-space: nowrap;
+  width: auto;
+}
+.ressource-1 .x0-1-3YItha {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+.ressource-1 .x0-1-R1AROT {
+  background-color: transparent;
+  height: 0px;
+  left: 0px;
+  position: absolute;
+  top: 2px;
+  width: 96px;
+}
+.ressource-1 .x0-1-jx6TW6 {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+.ressource-1 .x1-10-3YItha {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 70px;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+.ressource-1 .x1-10-R1AROT {
+  background-color: transparent;
+  height: 0px;
+  left: 191px;
+  position: absolute;
+  top: 2px;
+  width: 96px;
+}
+.ressource-1 .x1-10-jx6TW6 {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 71px;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+.ressource-1 .x10-1-3YItha {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 0px;
+  position: absolute;
+  top: 150px;
+  width: 13px;
+}
+.ressource-1 .x10-1-jx6TW6 {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 71px;
+  position: absolute;
+  top: 225px;
+  width: 13px;
+}
+.ressource-1 .x11-1-3YItha {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 70px;
+  position: absolute;
+  top: 150px;
+  width: 13px;
+}
+.ressource-1 .x11-1-jx6TW6 {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 142px;
+  position: absolute;
+  top: 225px;
+  width: 13px;
+}
+.ressource-1 .x12-1-3YItha {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 140px;
+  position: absolute;
+  top: 150px;
+  width: 13px;
+}
+.ressource-1 .x12-1-jx6TW6 {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 0px;
+  position: absolute;
+  top: 300px;
+  width: 13px;
+}
+.ressource-1 .x13-1-3YItha {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 210px;
+  position: absolute;
+  top: 150px;
+  width: 13px;
+}
+.ressource-1 .x13-1-jx6TW6 {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 71px;
+  position: absolute;
+  top: 300px;
+  width: 13px;
+}
+.ressource-1 .x14-1-3YItha {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 280px;
+  position: absolute;
+  top: 150px;
+  width: 13px;
+}
+.ressource-1 .x14-1-jx6TW6 {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 142px;
+  position: absolute;
+  top: 300px;
+  width: 13px;
+}
+.ressource-1 .x15-1-3YItha {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 0px;
+  position: absolute;
+  top: 225px;
+  width: 13px;
+}
+.ressource-1 .x16-1-3YItha {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 70px;
+  position: absolute;
+  top: 225px;
+  width: 13px;
+}
+.ressource-1 .x17-1-3YItha {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 140px;
+  position: absolute;
+  top: 225px;
+  width: 13px;
+}
+.ressource-1 .x18-1-3YItha {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 210px;
+  position: absolute;
+  top: 225px;
+  width: 13px;
+}
+.ressource-1 .x19-1-3YItha {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 280px;
+  position: absolute;
+  top: 225px;
+  width: 13px;
+}
+.ressource-1 .x2-10-3YItha {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 140px;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+.ressource-1 .x2-10-R1AROT {
+  background-color: transparent;
+  height: 0px;
+  left: 382px;
+  position: absolute;
+  top: 2px;
+  width: 96px;
+}
+.ressource-1 .x2-10-jx6TW6 {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 142px;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+.ressource-1 .x20-1-3YItha {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 0px;
+  position: absolute;
+  top: 300px;
+  width: 13px;
+}
+.ressource-1 .x21-1-3YItha {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 70px;
+  position: absolute;
+  top: 300px;
+  width: 13px;
+}
+.ressource-1 .x22-1-3YItha {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 140px;
+  position: absolute;
+  top: 300px;
+  width: 13px;
+}
+.ressource-1 .x23-1-3YItha {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 210px;
+  position: absolute;
+  top: 300px;
+  width: 13px;
+}
+.ressource-1 .x24-1-3YItha {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 280px;
+  position: absolute;
+  top: 300px;
+  width: 13px;
+}
+.ressource-1 .x3-10-3YItha {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 210px;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+.ressource-1 .x3-10-R1AROT {
+  background-color: transparent;
+  height: 0px;
+  left: 573px;
+  position: absolute;
+  top: 2px;
+  width: 96px;
+}
+.ressource-1 .x3-10-jx6TW6 {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 0px;
+  position: absolute;
+  top: 75px;
+  width: 13px;
+}
+.ressource-1 .x4-1-3YItha {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 280px;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+.ressource-1 .x4-1-jx6TW6 {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 71px;
+  position: absolute;
+  top: 75px;
+  width: 13px;
+}
+.ressource-1 .x5-1-3YItha {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 0px;
+  position: absolute;
+  top: 75px;
+  width: 13px;
+}
+.ressource-1 .x5-1-jx6TW6 {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 142px;
+  position: absolute;
+  top: 75px;
+  width: 13px;
+}
+.ressource-1 .x6-1-3YItha {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 70px;
+  position: absolute;
+  top: 75px;
+  width: 13px;
+}
+.ressource-1 .x6-1-jx6TW6 {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 0px;
+  position: absolute;
+  top: 150px;
+  width: 13px;
+}
+.ressource-1 .x7-1-3YItha {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 140px;
+  position: absolute;
+  top: 75px;
+  width: 13px;
+}
+.ressource-1 .x7-1-jx6TW6 {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 71px;
+  position: absolute;
+  top: 150px;
+  width: 13px;
+}
+.ressource-1 .x8-1-3YItha {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 210px;
+  position: absolute;
+  top: 75px;
+  width: 13px;
+}
+.ressource-1 .x8-1-jx6TW6 {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 142px;
+  position: absolute;
+  top: 150px;
+  width: 13px;
+}
+.ressource-1 .x9-1-3YItha {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 280px;
+  position: absolute;
+  top: 75px;
+  width: 13px;
+}
+.ressource-1 .x9-1-jx6TW6 {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 0px;
+  position: absolute;
+  top: 225px;
+  width: 13px;
+}
+:root {
+  --abbey: rgba(79,79,85,1.0);
+  --cornflower-blue: rgba(115,123,242,1.0);
+  --mirage: rgba(24,25,45,1.0);
+  --vulcan: rgba(18,18,32,1.0);
+  --vulcan-2: rgba(18,18,31,1.0);
+  --white: rgba(255,255,255,1.0);
+}

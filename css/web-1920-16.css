@@ -1,0 +1,998 @@
+/* screen - web-1920-16 */
+
+.courier-regular-normal-abbey-20px {
+  color: var(--abbey);
+  font-family: 'Courier-Regular', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+.couriernew-bold-cornflower-blue-20px {
+  color: var(--cornflower-blue);
+  font-family: 'CourierNew-Bold', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+}
+.couriernew-bold-white-20px {
+  color: var(--white);
+  font-family: 'CourierNew-Bold', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+}
+.couriernew-bold-white-21px {
+  color: var(--white);
+  font-family: 'CourierNew-Bold', Helvetica, Arial, serif;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 700;
+}
+.couriernew-regular-normal-white-20px {
+  color: var(--white);
+  font-family: 'CourierNew-Regular', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+.inter-medium-white-23px {
+  color: var(--white);
+  font-family: 'Inter', Helvetica, Arial, serif;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 500;
+}
+.inter-medium-white-24px {
+  color: var(--white);
+  font-family: 'Inter', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+}
+.montserrat-bold-abbey-25px {
+  color: var(--abbey);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 700;
+}
+.montserrat-bold-white-30px {
+  color: var(--white);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+}
+.montserrat-bold-white-67px {
+  color: var(--white);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-size: 67px;
+  font-style: normal;
+  font-weight: 700;
+}
+.web-1920-16 {
+  background-color: var(--vulcan);
+  height: 1080px;
+  position: relative;
+  width: 1920px;
+}
+.web-1920-16 .barre-9pMjwt {
+  background-color: transparent;
+  bottom: calc(37.58% - 2px);
+  height: 5px;
+  left: calc(34.78% - 262px);
+  position: absolute;
+  width: 752px;
+}
+.web-1920-16 .barre-C61RwL {
+  background-color: var(--vulcan);
+  height: 170px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+.web-1920-16 .composant-23-1-C61RwL {
+  background-color: transparent;
+  height: 49px;
+  left: 56px;
+  position: absolute;
+  top: 656px;
+  width: 17px;
+}
+.web-1920-16 .composant-3-55-9pMjwt {
+  background-color: transparent;
+  border: 3px solid var(--cornflower-blue);
+  border-radius: 15px;
+  bottom: calc(49.51% - 33px);
+  height: 67px;
+  position: absolute;
+  right: 33px;
+  width: 230px;
+}
+.web-1920-16 .ellipse-10-C61RwL {
+  background-color: transparent;
+  height: 74px;
+  left: 1588px;
+  position: fixed;
+  top: 855px;
+  width: 74px;
+}
+.web-1920-16 .ellipse-12-9Ac2cI {
+  background-color: transparent;
+  height: 17px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.web-1920-16 .ellipse-13-9Ac2cI {
+  background-color: transparent;
+  bottom: 0px;
+  height: 17px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+.web-1920-16 .etape-1-7hq0Fx {
+  background-color: var(--mirage);
+  border-radius: 37px;
+  height: 290px;
+  left: 0px;
+  position: absolute;
+  top: 11px;
+  width: 864px;
+}
+.web-1920-16 .etape-1-lZv0hT {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'CourierNew-Bold', Helvetica, Arial, serif;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 700;
+  height: 28px;
+  left: 29px;
+  letter-spacing: 1.49px;
+  line-height: 42px;
+  position: absolute;
+  text-align: left;
+  top: 33px;
+  white-space: nowrap;
+  width: 108px;
+}
+.web-1920-16 .etape-2-7hq0Fx {
+  background-color: var(--mirage);
+  border-radius: 37px;
+  height: 290px;
+  left: 0px;
+  position: absolute;
+  top: 332px;
+  width: 864px;
+}
+.web-1920-16 .etape-2-U5Bwxu {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'CourierNew-Bold', Helvetica, Arial, serif;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 700;
+  height: 28px;
+  left: 31px;
+  letter-spacing: 1.49px;
+  line-height: 42px;
+  position: absolute;
+  text-align: left;
+  top: calc(13.74% - 4px);
+  white-space: nowrap;
+  width: 108px;
+}
+.web-1920-16 .etape-3-7hq0Fx {
+  background-color: var(--mirage);
+  border-radius: 37px;
+  height: 290px;
+  left: 0px;
+  position: absolute;
+  top: 642px;
+  width: 864px;
+}
+.web-1920-16 .etape-3-TmtxGv {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'CourierNew-Bold', Helvetica, Arial, serif;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 700;
+  height: 28px;
+  left: 33px;
+  letter-spacing: 1.49px;
+  line-height: 42px;
+  position: absolute;
+  text-align: left;
+  top: calc(14.50% - 4px);
+  white-space: nowrap;
+  width: 108px;
+}
+.web-1920-16 .etape-4-7hq0Fx {
+  background-color: transparent;
+  height: 290px;
+  left: 0px;
+  position: absolute;
+  top: 963px;
+  width: 864px;
+}
+.web-1920-16 .etape-4-Rm9Z54 {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'CourierNew-Bold', Helvetica, Arial, serif;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 700;
+  height: 28px;
+  left: 33px;
+  letter-spacing: 1.49px;
+  line-height: 42px;
+  position: absolute;
+  text-align: left;
+  top: 35px;
+  white-space: nowrap;
+  width: 108px;
+}
+.web-1920-16 .expertises-9pMjwt {
+  background-color: transparent;
+  height: 25px;
+  left: calc(36.56% - 49px);
+  letter-spacing: 1.30px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: calc(46.21% - 12px);
+  white-space: nowrap;
+  width: 134px;
+}
+.web-1920-16 .gestion-du-tre-equipe-TmtxGv {
+  background-color: transparent;
+  height: 39px;
+  left: 33px;
+  letter-spacing: 2.10px;
+  line-height: 45px;
+  position: absolute;
+  text-align: center;
+  top: calc(33.47% - 13px);
+  white-space: nowrap;
+  width: 644px;
+}
+.web-1920-16 .grille-de--petition-4-rzFrlZ {
+  background-color: transparent;
+  height: 100%;
+  left: 74px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 74px);
+}
+.web-1920-16 .grille-de--petition-7-C61RwL {
+  background-color: transparent;
+  height: 678px;
+  left: 1622px;
+  position: fixed;
+  top: 239px;
+  width: 291px;
+}
+.web-1920-16 .groupe-4-Rm9Z54 {
+  background-color: var(--mirage);
+  border-radius: 37px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.web-1920-16 .groupe-de-masques-2-rzFrlZ {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 171px;
+}
+.web-1920-16 .groupe-defilant-2-C61RwL {
+  background-color: transparent;
+  height: 622px;
+  left: 239px;
+  position: absolute;
+  top: 361px;
+  width: 864px;
+}
+.web-1920-16 .icon-ionic-arrow-down-C61RwL {
+  background-color: transparent;
+  height: 25px;
+  left: 938px;
+  position: absolute;
+  top: 1022px;
+  width: 43px;
+}
+.web-1920-16 .icon-ionic-arrow-down-zDdkNI {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.web-1920-16 .identifica--du-projet-lZv0hT {
+  background-color: transparent;
+  height: 39px;
+  left: 31px;
+  letter-spacing: 2.10px;
+  line-height: 45px;
+  position: absolute;
+  text-align: center;
+  top: calc(36.25% - 14px);
+  white-space: nowrap;
+  width: calc(100.00% - 146px);
+}
+.web-1920-16 .ligne-3-8a2rMf {
+  background-color: transparent;
+  height: 5px;
+  left: 0px;
+  position: absolute;
+  top: -2px;
+  width: 96px;
+}
+.web-1920-16 .ligne-3-Ib0dLL {
+  background-color: transparent;
+  height: 5px;
+  left: 0px;
+  position: absolute;
+  top: -2px;
+  width: 96px;
+}
+.web-1920-16 .ligne-3-tvEfTs {
+  background-color: transparent;
+  height: 5px;
+  left: 0px;
+  position: absolute;
+  top: -2px;
+  width: 96px;
+}
+.web-1920-16 .ligne-3-upDTcU {
+  background-color: transparent;
+  height: 5px;
+  left: 0px;
+  position: absolute;
+  top: -2px;
+  width: 96px;
+}
+.web-1920-16 .livraison--n-a-loutil-Rm9Z54 {
+  background-color: transparent;
+  height: 39px;
+  left: 33px;
+  letter-spacing: 2.10px;
+  line-height: 45px;
+  position: absolute;
+  text-align: center;
+  top: calc(37.05% - 14px);
+  white-space: nowrap;
+  width: 538px;
+}
+.web-1920-16 .logo-blanc-9pMjwt {
+  background-color: transparent;
+  bottom: 22px;
+  height: 105px;
+  left: 113px;
+  position: absolute;
+  width: 186px;
+}
+.web-1920-16 .matching-a--qualifies-U5Bwxu {
+  background-color: transparent;
+  height: 39px;
+  left: 29px;
+  letter-spacing: 2.10px;
+  line-height: 45px;
+  position: absolute;
+  text-align: center;
+  top: calc(32.67% - 13px);
+  white-space: nowrap;
+  width: 692px;
+}
+.web-1920-16 .methodologie-9pMjwt {
+  background-color: transparent;
+  height: 25px;
+  left: calc(47.22% - 76px);
+  letter-spacing: 1.30px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: calc(46.21% - 12px);
+  white-space: nowrap;
+  width: 160px;
+}
+.web-1920-16 .notre-equi-pe-de-tout-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 202px;
+  letter-spacing: 0.00px;
+  line-height: 79px;
+  position: absolute;
+  text-align: left;
+  top: 208px;
+  white-space: nowrap;
+  width: auto;
+}
+.web-1920-16 .nous-contacter-9pMjwt {
+  background-color: transparent;
+  height: 25px;
+  letter-spacing: 1.30px;
+  line-height: 35px;
+  position: absolute;
+  right: 53px;
+  text-align: left;
+  top: calc(46.90% - 12px);
+  white-space: nowrap;
+  width: 187px;
+}
+.web-1920-16 .nous-selec-tre-projet-U5Bwxu {
+  background-color: transparent;
+  bottom: calc(24.74% - 23px);
+  color: var(--white);
+  font-family: 'Inter', Helvetica, Arial, serif;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 500;
+  height: 94px;
+  left: 29px;
+  letter-spacing: 0.00px;
+  line-height: 33px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 135px);
+}
+.web-1920-16 .nous-vous--ojet-dedie-TmtxGv {
+  background-color: transparent;
+  bottom: calc(23.72% - 22px);
+  color: var(--white);
+  font-family: 'Inter', Helvetica, Arial, serif;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 500;
+  height: 94px;
+  left: 31px;
+  letter-spacing: 0.00px;
+  line-height: 33px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 138px);
+}
+.web-1920-16 .offres-9pMjwt {
+  background-color: transparent;
+  height: 25px;
+  left: calc(26.59% - 22px);
+  letter-spacing: 1.30px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: calc(46.21% - 12px);
+  white-space: nowrap;
+  width: 81px;
+}
+.web-1920-16 .rectangle-15-C61RwL {
+  background-color: transparent;
+  height: 361px;
+  left: 1721px;
+  position: fixed;
+  top: 0px;
+  width: 199px;
+}
+.web-1920-16 .rectangle-8-sw2gdj {
+  background-color: var(--cornflower-blue);
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 96px;
+}
+.web-1920-16 .ressources-9pMjwt {
+  background-color: transparent;
+  height: 25px;
+  letter-spacing: 1.30px;
+  line-height: 35px;
+  position: absolute;
+  right: calc(42.05% - 56px);
+  text-align: left;
+  top: calc(46.21% - 12px);
+  white-space: nowrap;
+  width: 134px;
+}
+.web-1920-16 .se-connecter-9pMjwt {
+  background-color: transparent;
+  height: 25px;
+  letter-spacing: 1.30px;
+  line-height: 35px;
+  position: absolute;
+  right: calc(16.65% - 27px);
+  text-align: left;
+  top: calc(46.21% - 12px);
+  white-space: nowrap;
+  width: 160px;
+}
+.web-1920-16 .une-fois-l-s-en-place-Rm9Z54 {
+  background-color: transparent;
+  bottom: calc(36.03% - 22px);
+  color: var(--white);
+  font-family: 'Inter', Helvetica, Arial, serif;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 500;
+  height: 61px;
+  left: 31px;
+  letter-spacing: 0.00px;
+  line-height: 33px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 125px);
+}
+.web-1920-16 .vous-redig--au-projet-lZv0hT {
+  background-color: transparent;
+  bottom: 40px;
+  color: var(--white);
+  font-family: 'Inter', Helvetica, Arial, serif;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 500;
+  height: 94px;
+  left: 31px;
+  letter-spacing: 0.00px;
+  line-height: 33px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 152px);
+}
+.web-1920-16 .x0-1-34Qk9s {
+  background-color: transparent;
+  background-image: url(../img/ellipse-11-100@1x.png);
+  background-size: 100% 100%;
+  height: 14px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 14px;
+}
+.web-1920-16 .x0-1-KfJAVS {
+  background-color: transparent;
+  height: 0px;
+  left: 0px;
+  position: absolute;
+  top: 2px;
+  width: 96px;
+}
+.web-1920-16 .x1-10-34Qk9s {
+  background-color: transparent;
+  background-image: url(../img/ellipse-11-100@1x.png);
+  background-size: 100% 100%;
+  height: 14px;
+  left: 73px;
+  position: absolute;
+  top: 0px;
+  width: 14px;
+}
+.web-1920-16 .x1-10-KfJAVS {
+  background-color: transparent;
+  height: 0px;
+  left: 191px;
+  position: absolute;
+  top: 2px;
+  width: 96px;
+}
+.web-1920-16 .x10-1-34Qk9s {
+  background-color: transparent;
+  background-image: url(../img/ellipse-11-100@1x.png);
+  background-size: 100% 100%;
+  height: 14px;
+  left: 146px;
+  position: absolute;
+  top: 140px;
+  width: 14px;
+}
+.web-1920-16 .x11-1-34Qk9s {
+  background-color: transparent;
+  background-image: url(../img/ellipse-11-100@1x.png);
+  background-size: 100% 100%;
+  height: 14px;
+  left: 219px;
+  position: absolute;
+  top: 140px;
+  width: 14px;
+}
+.web-1920-16 .x12-1-34Qk9s {
+  background-color: transparent;
+  background-image: url(../img/ellipse-11-100@1x.png);
+  background-size: 100% 100%;
+  height: 14px;
+  left: 0px;
+  position: absolute;
+  top: 210px;
+  width: 14px;
+}
+.web-1920-16 .x13-1-34Qk9s {
+  background-color: transparent;
+  background-image: url(../img/ellipse-11-100@1x.png);
+  background-size: 100% 100%;
+  height: 14px;
+  left: 73px;
+  position: absolute;
+  top: 210px;
+  width: 14px;
+}
+.web-1920-16 .x14-1-34Qk9s {
+  background-color: transparent;
+  background-image: url(../img/ellipse-11-100@1x.png);
+  background-size: 100% 100%;
+  height: 14px;
+  left: 146px;
+  position: absolute;
+  top: 210px;
+  width: 14px;
+}
+.web-1920-16 .x15-1-34Qk9s {
+  background-color: transparent;
+  background-image: url(../img/ellipse-11-100@1x.png);
+  background-size: 100% 100%;
+  height: 14px;
+  left: 219px;
+  position: absolute;
+  top: 210px;
+  width: 14px;
+}
+.web-1920-16 .x16-1-34Qk9s {
+  background-color: transparent;
+  background-image: url(../img/ellipse-11-100@1x.png);
+  background-size: 100% 100%;
+  height: 14px;
+  left: 0px;
+  position: absolute;
+  top: 280px;
+  width: 14px;
+}
+.web-1920-16 .x17-1-34Qk9s {
+  background-color: transparent;
+  background-image: url(../img/ellipse-11-100@1x.png);
+  background-size: 100% 100%;
+  height: 14px;
+  left: 73px;
+  position: absolute;
+  top: 280px;
+  width: 14px;
+}
+.web-1920-16 .x18-1-34Qk9s {
+  background-color: transparent;
+  background-image: url(../img/ellipse-11-100@1x.png);
+  background-size: 100% 100%;
+  height: 14px;
+  left: 146px;
+  position: absolute;
+  top: 280px;
+  width: 14px;
+}
+.web-1920-16 .x19-1-34Qk9s {
+  background-color: transparent;
+  background-image: url(../img/ellipse-11-100@1x.png);
+  background-size: 100% 100%;
+  height: 14px;
+  left: 219px;
+  position: absolute;
+  top: 280px;
+  width: 14px;
+}
+.web-1920-16 .x2-10-KfJAVS {
+  background-color: transparent;
+  height: 0px;
+  left: 382px;
+  position: absolute;
+  top: 2px;
+  width: 96px;
+}
+.web-1920-16 .x2-5-34Qk9s {
+  background-color: transparent;
+  background-image: url(../img/ellipse-11-100@1x.png);
+  background-size: 100% 100%;
+  height: 14px;
+  left: 146px;
+  position: absolute;
+  top: 0px;
+  width: 14px;
+}
+.web-1920-16 .x20-1-34Qk9s {
+  background-color: transparent;
+  background-image: url(../img/ellipse-11-100@1x.png);
+  background-size: 100% 100%;
+  height: 14px;
+  left: 0px;
+  position: absolute;
+  top: 350px;
+  width: 14px;
+}
+.web-1920-16 .x21-1-34Qk9s {
+  background-color: transparent;
+  background-image: url(../img/ellipse-11-100@1x.png);
+  background-size: 100% 100%;
+  height: 14px;
+  left: 73px;
+  position: absolute;
+  top: 350px;
+  width: 14px;
+}
+.web-1920-16 .x22-1-34Qk9s {
+  background-color: transparent;
+  background-image: url(../img/ellipse-11-100@1x.png);
+  background-size: 100% 100%;
+  height: 14px;
+  left: 146px;
+  position: absolute;
+  top: 350px;
+  width: 14px;
+}
+.web-1920-16 .x23-1-34Qk9s {
+  background-color: transparent;
+  background-image: url(../img/ellipse-11-100@1x.png);
+  background-size: 100% 100%;
+  height: 14px;
+  left: 219px;
+  position: absolute;
+  top: 350px;
+  width: 14px;
+}
+.web-1920-16 .x24-1-34Qk9s {
+  background-color: transparent;
+  background-image: url(../img/ellipse-11-100@1x.png);
+  background-size: 100% 100%;
+  height: 14px;
+  left: 0px;
+  position: absolute;
+  top: 420px;
+  width: 14px;
+}
+.web-1920-16 .x25-34Qk9s {
+  background-color: transparent;
+  background-image: url(../img/ellipse-11-100@1x.png);
+  background-size: 100% 100%;
+  height: 14px;
+  left: 73px;
+  position: absolute;
+  top: 420px;
+  width: 14px;
+}
+.web-1920-16 .x26-34Qk9s {
+  background-color: transparent;
+  background-image: url(../img/ellipse-11-100@1x.png);
+  background-size: 100% 100%;
+  height: 14px;
+  left: 146px;
+  position: absolute;
+  top: 420px;
+  width: 14px;
+}
+.web-1920-16 .x27-34Qk9s {
+  background-color: transparent;
+  background-image: url(../img/ellipse-11-100@1x.png);
+  background-size: 100% 100%;
+  height: 14px;
+  left: 219px;
+  position: absolute;
+  top: 420px;
+  width: 14px;
+}
+.web-1920-16 .x28-34Qk9s {
+  background-color: transparent;
+  background-image: url(../img/ellipse-11-100@1x.png);
+  background-size: 100% 100%;
+  height: 14px;
+  left: 0px;
+  position: absolute;
+  top: 490px;
+  width: 14px;
+}
+.web-1920-16 .x29-34Qk9s {
+  background-color: transparent;
+  background-image: url(../img/ellipse-11-100@1x.png);
+  background-size: 100% 100%;
+  height: 14px;
+  left: 73px;
+  position: absolute;
+  top: 490px;
+  width: 14px;
+}
+.web-1920-16 .x3-1-34Qk9s {
+  background-color: transparent;
+  background-image: url(../img/ellipse-11-100@1x.png);
+  background-size: 100% 100%;
+  height: 14px;
+  left: 219px;
+  position: absolute;
+  top: 0px;
+  width: 14px;
+}
+.web-1920-16 .x3-10-KfJAVS {
+  background-color: transparent;
+  height: 0px;
+  left: 573px;
+  position: absolute;
+  top: 2px;
+  width: 96px;
+}
+.web-1920-16 .x30-34Qk9s {
+  background-color: transparent;
+  background-image: url(../img/ellipse-11-100@1x.png);
+  background-size: 100% 100%;
+  height: 14px;
+  left: 146px;
+  position: absolute;
+  top: 490px;
+  width: 14px;
+}
+.web-1920-16 .x31-34Qk9s {
+  background-color: transparent;
+  background-image: url(../img/ellipse-11-100@1x.png);
+  background-size: 100% 100%;
+  height: 14px;
+  left: 219px;
+  position: absolute;
+  top: 490px;
+  width: 14px;
+}
+.web-1920-16 .x32-34Qk9s {
+  background-color: transparent;
+  background-image: url(../img/ellipse-11-100@1x.png);
+  background-size: 100% 100%;
+  height: 14px;
+  left: 0px;
+  position: absolute;
+  top: 560px;
+  width: 14px;
+}
+.web-1920-16 .x33-34Qk9s {
+  background-color: transparent;
+  background-image: url(../img/ellipse-11-100@1x.png);
+  background-size: 100% 100%;
+  height: 14px;
+  left: 73px;
+  position: absolute;
+  top: 560px;
+  width: 14px;
+}
+.web-1920-16 .x34-34Qk9s {
+  background-color: transparent;
+  background-image: url(../img/ellipse-11-100@1x.png);
+  background-size: 100% 100%;
+  height: 14px;
+  left: 146px;
+  position: absolute;
+  top: 560px;
+  width: 14px;
+}
+.web-1920-16 .x35-34Qk9s {
+  background-color: transparent;
+  background-image: url(../img/ellipse-11-100@1x.png);
+  background-size: 100% 100%;
+  height: 14px;
+  left: 219px;
+  position: absolute;
+  top: 560px;
+  width: 14px;
+}
+.web-1920-16 .x36-34Qk9s {
+  background-color: transparent;
+  background-image: url(../img/ellipse-11-100@1x.png);
+  background-size: 100% 100%;
+  height: 14px;
+  left: 0px;
+  position: absolute;
+  top: 630px;
+  width: 14px;
+}
+.web-1920-16 .x37-34Qk9s {
+  background-color: transparent;
+  background-image: url(../img/ellipse-11-100@1x.png);
+  background-size: 100% 100%;
+  height: 14px;
+  left: 73px;
+  position: absolute;
+  top: 630px;
+  width: 14px;
+}
+.web-1920-16 .x38-34Qk9s {
+  background-color: transparent;
+  background-image: url(../img/ellipse-11-100@1x.png);
+  background-size: 100% 100%;
+  height: 14px;
+  left: 146px;
+  position: absolute;
+  top: 630px;
+  width: 14px;
+}
+.web-1920-16 .x39-34Qk9s {
+  background-color: transparent;
+  background-image: url(../img/ellipse-11-100@1x.png);
+  background-size: 100% 100%;
+  height: 14px;
+  left: 219px;
+  position: absolute;
+  top: 630px;
+  width: 14px;
+}
+.web-1920-16 .x4-1-34Qk9s {
+  background-color: transparent;
+  background-image: url(../img/ellipse-11-100@1x.png);
+  background-size: 100% 100%;
+  height: 14px;
+  left: 0px;
+  position: absolute;
+  top: 70px;
+  width: 14px;
+}
+.web-1920-16 .x5-1-34Qk9s {
+  background-color: transparent;
+  background-image: url(../img/ellipse-11-100@1x.png);
+  background-size: 100% 100%;
+  height: 14px;
+  left: 73px;
+  position: absolute;
+  top: 70px;
+  width: 14px;
+}
+.web-1920-16 .x6-1-34Qk9s {
+  background-color: transparent;
+  background-image: url(../img/ellipse-11-100@1x.png);
+  background-size: 100% 100%;
+  height: 14px;
+  left: 146px;
+  position: absolute;
+  top: 70px;
+  width: 14px;
+}
+.web-1920-16 .x7-1-34Qk9s {
+  background-color: transparent;
+  background-image: url(../img/ellipse-11-100@1x.png);
+  background-size: 100% 100%;
+  height: 14px;
+  left: 219px;
+  position: absolute;
+  top: 70px;
+  width: 14px;
+}
+.web-1920-16 .x8-1-34Qk9s {
+  background-color: transparent;
+  background-image: url(../img/ellipse-11-100@1x.png);
+  background-size: 100% 100%;
+  height: 14px;
+  left: 0px;
+  position: absolute;
+  top: 140px;
+  width: 14px;
+}
+.web-1920-16 .x9-1-34Qk9s {
+  background-color: transparent;
+  background-image: url(../img/ellipse-11-100@1x.png);
+  background-size: 100% 100%;
+  height: 14px;
+  left: 73px;
+  position: absolute;
+  top: 140px;
+  width: 14px;
+}
+:root {
+  --abbey: rgba(79,79,85,1.0);
+  --cornflower-blue: rgba(115,123,242,1.0);
+  --mirage: rgba(24,25,45,1.0);
+  --vulcan: rgba(18,18,32,1.0);
+  --vulcan-2: rgba(18,18,31,1.0);
+  --white: rgba(255,255,255,1.0);
+}

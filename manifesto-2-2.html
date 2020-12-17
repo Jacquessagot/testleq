@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1920, maximum-scale=1.0" />
+    <link rel="shortcut icon" href="./img/favicon.png" />
+    <meta name="og:type" content="website" />
+    <meta name="twitter:card" content="photo" />
+    <link rel="stylesheet" type="text/css" href="css/manifesto-2-2.css" />
+    <style>
+      @import url("https://fonts.googleapis.com/css?family=Montserrat:700|Inter:500");
+
+      @font-face {
+        font-family: "Courier-Bold";
+        font-style: normal;
+        font-weight: 700;
+        src: url("https://anima-uploads.s3.amazonaws.com/projects/5fd6d6e50a9ec888689b3016/files/courier-boldregular.ttf")
+          format("truetype");
+      }
+
+      @font-face {
+        font-family: "Courier-Regular";
+        font-style: normal;
+        font-weight: 400;
+        src: url("https://anima-uploads.s3.amazonaws.com/projects/5fd8cd8d24c2f3ceeea5ec10/files/courier-allfont-net.ttf")
+          format("truetype");
+      }
+
+      .anima-component-wrapper a,
+      .anima-screen a {
+        text-decoration: none;
+        display: contents;
+      }
+
+      .anima-full-width-a {
+        width: 100%;
+      }
+
+      .anima-full-height-a {
+        height: 100%;
+      }
+
+      .anima-screen textarea:focus,
+      .anima-screen input:focus {
+        outline: none;
+      }
+
+      .anima-screen *,
+      .anima-component-wrapper * {
+        box-sizing: border-box;
+      }
+
+      .anima-screen div {
+        -webkit-text-size-adjust: none;
+      }
+
+      .anima-container-center-vertical,
+      .anima-container-center-horizontal {
+        pointer-events: none;
+        display: flex;
+        flex-direction: row;
+        padding: 0;
+        margin: 0;
+      }
+
+      .anima-container-center-vertical {
+        align-items: center;
+        height: 100%;
+      }
+
+      .anima-container-center-horizontal {
+        justify-content: center;
+        width: 100%;
+      }
+
+      .anima-container-center-vertical > *,
+      .anima-container-center-horizontal > * {
+        pointer-events: auto;
+        flex-shrink: 0;
+      }
+
+      .anima-component-wrapper,
+      .anima-screen {
+        overflow-wrap: break-word;
+        word-wrap: break-word;
+        word-break: break-all;
+        word-break: break-word;
+      }
+
+      .anima-auto-animated div {
+        opacity: 0;
+        position: absolute;
+        --anima-z-index: -1;
+      }
+
+      .anima-auto-animated .anima-container-center-vertical,
+      .anima-auto-animated .anima-container-center-horizontal {
+        opacity: 1;
+      }
+
+      .anima-overlay {
+        position: absolute;
+        opacity: 0;
+        display: none;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        position: fixed;
+      }
+
+      .anima-animate-appear {
+        opacity: 0;
+        display: block;
+        animation: anima-reveal 0.3s ease-in-out 1 normal forwards;
+      }
+
+      .anima-animate-disappear {
+        opacity: 1;
+        display: block;
+        animation: anima-reveal 0.3s ease-in-out 1 reverse forwards;
+      }
+
+      .anima-animate-nodelay {
+        animation-delay: 0s;
+      }
+
+      @keyframes anima-reveal {
+        from {
+          opacity: 0;
+        }
+        to {
+          opacity: 1;
+        }
+      }
+      .align-self-flex-start {
+        align-self: flex-start;
+      }
+      .align-self-flex-end {
+        align-self: flex-end;
+      }
+      .align-self-flex-center {
+        align-self: center;
+      }
+      .anima-valign-text-middle {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+      }
+      .anima-valign-text-bottom {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+      }
+      .anima- input:focus {
+        outline: none;
+      }
+      .anima-component-wrapper,
+      .anima-component-wrapper * {
+        pointer-events: none;
+      }
+
+      .anima-component-wrapper a *,
+      .anima-component-wrapper a,
+      .anima-component-wrapper input,
+      .anima-component-wrapper video,
+      .anima-component-wrapper iframe,
+      .anima-listeners-active,
+      .anima-listeners-active * {
+        pointer-events: auto;
+      }
+
+      .anima-hidden,
+      .anima-hidden * {
+        visibility: hidden;
+        pointer-events: none;
+      }
+
+      .anima-smart-layers-pointers,
+      .anima-smart-layers-pointers * {
+        pointer-events: auto;
+        visibility: visible;
+      }
+
+      .anima-component-wrapper.anima-not-ready,
+      .anima-component-wrapper.anima-not-ready * {
+        visibility: hidden !important;
+      }
+
+      .anima-listeners-active-click,
+      .anima-listeners-active-click * {
+        cursor: pointer;
+      }
+    </style>
+    <meta name="author" content="AnimaApp.com - Design to code, Automated." />
+  </head>
+  <body style="margin: 0; background: rgba(18, 18, 32, 1)">
+    <input type="hidden" id="anPageName" name="page" value="manifesto-2-2" />
+    <div class="anima-container-center-horizontal">
+      <div class="manifesto-2-2 anima-screen">
+        <img class="logo-blanc-C61RwL" src="img/logo-blanc-10@1x.png" />
+        <div class="offres-C61RwL couriernew-bold-cornflower-blue-20px">Offres</div>
+        <div class="expertises-C61RwL couriernew-regular-normal-white-20px">Expertises</div>
+        <div class="methodologie-C61RwL couriernew-regular-normal-white-20px">Méthodologie</div>
+        <div class="ressources-C61RwL couriernew-regular-normal-white-20px">Ressources</div>
+        <div class="se-connecter-C61RwL couriernew-regular-normal-white-20px">Se connecter</div>
+        <div class="composant-3-29-C61RwL"></div>
+        <div class="nous-contacter-C61RwL couriernew-bold-white-20px">Nous contacter</div>
+        <img class="ligne-4-C61RwL" src="img/ligne-4@1x.png" />
+        <div class="manifesto-C61RwL montserrat-bold-white-67px">Manifesto</div>
+        <div class="nous-trava-ive-de-fre-C61RwL">
+          <br />Nous travaillons d’arrache-pied pour fournir la solution aux chefs d’entreprise, acheteurs et managers
+          souhaitant réaliser des projets innovants, aux prix justes et gérés par une équipe d’experts.<br />
+          <br />Leqto vous donne accès à une communauté sélective de freelances, permettant de faciliter la mise en
+          place de vos projets sur l’ensemble des expertises liées au numérique tout en garantissant leur réussite.
+          <br />
+          <br />La gestion des livrables et des freelances est prise en charge par nos experts en coordination avec
+          votre équipe, afin de sécuriser chaque projet et assurer un engagement de résultat pour toutes nos
+          prestations.
+        </div>
+        <div class="icon-ionic-arrow-down-C61RwL">
+          <img class="icon-ionic-arrow-down-zDdkNI" src="img/icon-ionic-ios-arrow-down-12@1x.png" />
+        </div>
+      </div>
+    </div>
+    <div class="anima-container-center-horizontal">
+      <div class="offres-4 anima-screen">
+        <img class="logo-blanc-C61RwL" src="img/logo-blanc-10@1x.png" />
+        <div class="formes-C61RwL">
+          <div class="composant-1-1-036jSs">
+            <img class="rectangle-1-8HNCl8" src="img/rectangle-1-1@1x.png" />
+            <img class="rectangle-2-8HNCl8" src="img/rectangle-2-1@1x.png" />
+          </div>
+          <img class="ellipse-1-036jSs" src="img/ellipse-1-1@1x.png" />
+          <div class="grille-de--petition-1-036jSs">
+            <div class="x0-jx6TW6"></div>
+            <div class="x1-jx6TW6"></div>
+            <div class="x2-jx6TW6"></div>
+            <div class="x3-jx6TW6"></div>
+            <div class="x4-jx6TW6"></div>
+            <div class="x5-jx6TW6"></div>
+            <div class="x6-jx6TW6"></div>
+            <div class="x7-jx6TW6"></div>
+            <div class="x8-jx6TW6"></div>
+            <div class="x9-jx6TW6"></div>
+            <div class="x10-jx6TW6"></div>
+            <div class="x11-jx6TW6"></div>
+            <div class="x12-jx6TW6"></div>
+            <div class="x13-jx6TW6"></div>
+            <div class="x14-jx6TW6"></div>
+          </div>
+          <div class="grille-de--petition-2-036jSs">
+            <div class="x0-1-3YItha"></div>
+            <div class="x1-5-3YItha"></div>
+            <div class="x2-1-3YItha"></div>
+            <div class="x3-1-3YItha"></div>
+            <div class="x4-1-3YItha"></div>
+            <div class="x5-1-3YItha"></div>
+            <div class="x6-1-3YItha"></div>
+            <div class="x7-1-3YItha"></div>
+            <div class="x8-1-3YItha"></div>
+            <div class="x9-1-3YItha"></div>
+            <div class="x10-1-3YItha"></div>
+            <div class="x11-1-3YItha"></div>
+            <div class="x12-1-3YItha"></div>
+            <div class="x13-1-3YItha"></div>
+            <div class="x14-1-3YItha"></div>
+            <div class="x15-3YItha"></div>
+            <div class="x16-3YItha"></div>
+            <div class="x17-3YItha"></div>
+            <div class="x18-3YItha"></div>
+            <div class="x19-3YItha"></div>
+            <div class="x20-3YItha"></div>
+            <div class="x21-3YItha"></div>
+            <div class="x22-3YItha"></div>
+            <div class="x23-3YItha"></div>
+            <div class="x24-3YItha"></div>
+          </div>
+          <img class="ellipse-3-036jSs" src="img/ellipse-3-1@1x.png" />
+        </div>
+        <div class="les-meille-os-experts-C61RwL montserrat-bold-white-67px">
+          Les meilleurs <br />freelances, gérés par<br />nos experts.
+        </div>
+        <div class="des-free-l-s-digitaux-C61RwL inter-medium-white-24px">
+          Des free-lances certifiés et une équipe de gestion dédiée pour <br />garantir la réussite de vos projets
+          digitaux.
+        </div>
+        <div class="composant-2-1-C61RwL"></div>
+        <div class="deposer-mon-projet-C61RwL couriernew-bold-white-21px">Déposer mon projet</div>
+        <div class="composant-22-1-C61RwL">
+          <div class="se-connecter-FsSxC4 couriernew-regular-normal-white-20px">Se connecter</div>
+        </div>
+        <div class="composant-3-1-C61RwL"></div>
+        <div class="nous-contacter-C61RwL couriernew-bold-white-20px">Nous contacter</div>
+        <div class="barre-C61RwL">
+          <div class="grille-de--petition-4-9pMjwt">
+            <div class="x0-1-R1AROT"><img class="ligne-3-XniE9Y" src="img/ligne-3-10@1x.png" /></div>
+            <div class="x1-10-R1AROT"><img class="ligne-3-Hhv5YU" src="img/ligne-3-10@1x.png" /></div>
+            <div class="x2-5-R1AROT"><img class="ligne-3-6BazAb" src="img/ligne-3-10@1x.png" /></div>
+            <div class="x3-1-R1AROT"><img class="ligne-3-lZFfJe" src="img/ligne-3-10@1x.png" /></div>
+          </div>
+          <div class="groupe-de-masques-2-9pMjwt">
+            <div class="rectangle-8-T0kAMz"></div>
+          </div>
+        </div>
+        <div class="composant-15-2-C61RwL">
+          <div class="offres-73gKWO couriernew-bold-cornflower-blue-20px">Offres</div>
+        </div>
+        <div class="composant-14-2-C61RwL">
+          <div class="composant-16-1-QWKFVS">
+            <div class="expertises-Kvkc8P couriernew-regular-normal-white-20px">Expertises</div>
+          </div>
+        </div>
+        <div class="composant-17-2-C61RwL">
+          <div class="methodologie-ki014G couriernew-regular-normal-white-20px">Méthodologie</div>
+        </div>
+        <div class="composant-18-2-C61RwL">
+          <div class="ressources-L3oIxm couriernew-regular-normal-white-20px">Ressources</div>
+        </div>
+        <div class="icon-ionic-arrow-down-C61RwL">
+          <img class="icon-ionic-arrow-down-zDdkNI" src="img/icon-ionic-ios-arrow-down-12@1x.png" />
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

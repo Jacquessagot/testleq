@@ -1,0 +1,2276 @@
+/* screen - expertise-choix-1 */
+
+.courier-regular-normal-abbey-20px {
+  color: var(--abbey);
+  font-family: 'Courier-Regular', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+.couriernew-bold-cornflower-blue-20px {
+  color: var(--cornflower-blue);
+  font-family: 'CourierNew-Bold', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+}
+.couriernew-bold-white-20px {
+  color: var(--white);
+  font-family: 'CourierNew-Bold', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+}
+.couriernew-bold-white-21px {
+  color: var(--white);
+  font-family: 'CourierNew-Bold', Helvetica, Arial, serif;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 700;
+}
+.couriernew-regular-normal-white-20px {
+  color: var(--white);
+  font-family: 'CourierNew-Regular', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+.expertise-choix-1 {
+  background-color: rgba(18,18,32,1.0);
+  height: 1080px;
+  opacity: 1;
+  position: relative;
+  width: 1920px;
+}
+.expertise-choix-1 .composant-2-22-C61RwL {
+  --anima-z-index: 21;
+  background-color: transparent;
+  height: 72px;
+  left: 1395px;
+  opacity: 1;
+  position: absolute;
+  top: 806px;
+  width: 317px;
+}
+.expertise-choix-1 .composant-3-30-C61RwL {
+  --anima-z-index: 6;
+  background-color: transparent;
+  height: 67px;
+  left: 1659px;
+  opacity: 1;
+  position: absolute;
+  top: 51px;
+  width: 230px;
+}
+.expertise-choix-1 .de-la-data-science-ia-C61RwL {
+  --anima-z-index: 14;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'Courier-Regular', Helvetica, Arial, serif;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 271px;
+  letter-spacing: 0.48px;
+  line-height: 79px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 652px;
+  white-space: nowrap;
+  width: auto;
+}
+.expertise-choix-1 .du-design-uxui-C61RwL {
+  --anima-z-index: 15;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'Courier-Regular', Helvetica, Arial, serif;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 271px;
+  letter-spacing: 0.48px;
+  line-height: 79px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 720px;
+  white-space: nowrap;
+  width: auto;
+}
+.expertise-choix-1 .du-develop-web-mobile-C61RwL {
+  --anima-z-index: 13;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'Courier-Regular', Helvetica, Arial, serif;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 271px;
+  letter-spacing: 0.48px;
+  line-height: 79px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 584px;
+  white-space: nowrap;
+  width: auto;
+}
+.expertise-choix-1 .du-marketing-digital-C61RwL {
+  --anima-z-index: 16;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'Courier-Regular', Helvetica, Arial, serif;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 271px;
+  letter-spacing: 0.48px;
+  line-height: 79px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 788px;
+  white-space: nowrap;
+  width: auto;
+}
+.expertise-choix-1 .expertises-C61RwL {
+  --anima-z-index: 2;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'CourierNew-Regular', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 639px;
+  letter-spacing: 1.30px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 66px;
+  white-space: nowrap;
+  width: auto;
+}
+.expertise-choix-1 .icon-ionic-arrow-down-C61RwL {
+  --anima-z-index: 23;
+  background-color: transparent;
+  height: 25px;
+  left: 938px;
+  opacity: 1;
+  position: absolute;
+  top: 981px;
+  width: 43px;
+}
+.expertise-choix-1 .icon-ionic-arrow-down-zDdkNI {
+  --anima-z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/icon-ionic-ios-arrow-down-12@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 1px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.expertise-choix-1 .je-cherche-C61RwL {
+  --anima-z-index: 11;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-size: 37px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 271px;
+  letter-spacing: 0.78px;
+  line-height: 79px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 465px;
+  white-space: nowrap;
+  width: auto;
+}
+.expertise-choix-1 .je-souhait-etre-guide-C61RwL {
+  --anima-z-index: 19;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 1430px;
+  letter-spacing: 2.45px;
+  line-height: 45px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 470px;
+  white-space: nowrap;
+  width: auto;
+}
+.expertise-choix-1 .ligne-7-C61RwL {
+  --anima-z-index: 8;
+  background-color: transparent;
+  background-image: url(../img/ligne-4@1x.png);
+  background-size: 100% 100%;
+  height: 5px;
+  left: 482px;
+  opacity: 1;
+  position: absolute;
+  top: 102px;
+  width: 96px;
+}
+.expertise-choix-1 .ligne-8-C61RwL {
+  --anima-z-index: 12;
+  background-color: transparent;
+  background-image: url(../img/ligne-8-1@1x.png);
+  background-size: 100% 100%;
+  height: 4px;
+  left: 494px;
+  opacity: 1;
+  position: absolute;
+  top: 518px;
+  width: 19px;
+}
+.expertise-choix-1 .logo-blanc-C61RwL {
+  --anima-z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/logo-blanc-10@1x.png);
+  background-size: 100% 100%;
+  height: 105px;
+  left: 109px;
+  opacity: 1;
+  position: absolute;
+  top: 37px;
+  width: 186px;
+}
+.expertise-choix-1 .methodologie-C61RwL {
+  --anima-z-index: 3;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'CourierNew-Regular', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 821px;
+  letter-spacing: 1.30px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 66px;
+  white-space: nowrap;
+  width: auto;
+}
+.expertise-choix-1 .nous-contacter-C61RwL {
+  --anima-z-index: 7;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'CourierNew-Bold', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 1682px;
+  letter-spacing: 1.30px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 67px;
+  white-space: nowrap;
+  width: auto;
+}
+.expertise-choix-1 .offres-C61RwL {
+  --anima-z-index: 1;
+  background-color: transparent;
+  color: rgba(112,120,236,1.0);
+  font-family: 'CourierNew-Bold', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 491px;
+  letter-spacing: 1.30px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 66px;
+  white-space: nowrap;
+  width: auto;
+}
+.expertise-choix-1 .prendre-rendez-vous-C61RwL {
+  --anima-z-index: 22;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'CourierNew-Bold', Helvetica, Arial, serif;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 1408px;
+  letter-spacing: 1.36px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 825px;
+  white-space: nowrap;
+  width: auto;
+}
+.expertise-choix-1 .quelle-exp-rchez-vous-C61RwL {
+  --anima-z-index: 9;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 189px;
+  letter-spacing: 0.00px;
+  line-height: 79px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 254px;
+  white-space: nowrap;
+  width: auto;
+}
+.expertise-choix-1 .question-12-C61RwL {
+  --anima-z-index: 17;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'Courier-Regular', Helvetica, Arial, serif;
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 1020px;
+  letter-spacing: 0.40px;
+  line-height: 79px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 855px;
+  white-space: nowrap;
+  width: auto;
+}
+.expertise-choix-1 .rectangle-3-FDIN0x {
+  --anima-z-index: 0;
+  background-color: rgba(115,123,242,1.0);
+  border-radius: 15px;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.expertise-choix-1 .rectangle-4-binzTa {
+  --anima-z-index: 0;
+  background-color: transparent;
+  border: 3px solid rgba(115,123,242,1.0);
+  border-radius: 15px;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.expertise-choix-1 .rectangle-5-C61RwL {
+  --anima-z-index: 10;
+  background-color: rgba(24,25,45,1.0);
+  border-radius: 25px;
+  height: 513px;
+  left: 189px;
+  opacity: 1;
+  position: absolute;
+  top: 404px;
+  width: 1008px;
+}
+.expertise-choix-1 .rectangle-6-C61RwL {
+  --anima-z-index: 18;
+  background-color: rgba(24,25,45,1.0);
+  border-radius: 37px;
+  height: 513px;
+  left: 1319px;
+  opacity: 1;
+  position: absolute;
+  top: 404px;
+  width: 469px;
+}
+.expertise-choix-1 .ressources-C61RwL {
+  --anima-z-index: 4;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'CourierNew-Regular', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 1020px;
+  letter-spacing: 1.30px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 66px;
+  white-space: nowrap;
+  width: auto;
+}
+.expertise-choix-1 .se-connecter-C61RwL {
+  --anima-z-index: 5;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'CourierNew-Regular', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 1469px;
+  letter-spacing: 1.30px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 66px;
+  white-space: nowrap;
+  width: auto;
+}
+.expertise-choix-1 .un-membre--vosbesoins-C61RwL {
+  --anima-z-index: 20;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'Inter', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 1401px;
+  letter-spacing: 0.00px;
+  line-height: 33px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 626px;
+  white-space: nowrap;
+  width: auto;
+}
+.inter-medium-white-23px {
+  color: var(--white);
+  font-family: 'Inter', Helvetica, Arial, serif;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 500;
+}
+.inter-medium-white-24px {
+  color: var(--white);
+  font-family: 'Inter', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+}
+.montserrat-bold-abbey-25px {
+  color: var(--abbey);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 700;
+}
+.montserrat-bold-white-30px {
+  color: var(--white);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+}
+.montserrat-bold-white-67px {
+  color: var(--white);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-size: 67px;
+  font-style: normal;
+  font-weight: 700;
+}
+:root {
+  --abbey: rgba(79,79,85,1.0);
+  --cornflower-blue: rgba(115,123,242,1.0);
+  --mirage: rgba(24,25,45,1.0);
+  --vulcan: rgba(18,18,32,1.0);
+  --vulcan-2: rgba(18,18,31,1.0);
+  --white: rgba(255,255,255,1.0);
+}
+/* screen - expertise-12-10 */
+
+.courier-regular-normal-abbey-20px {
+  color: var(--abbey);
+  font-family: 'Courier-Regular', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+.couriernew-bold-cornflower-blue-20px {
+  color: var(--cornflower-blue);
+  font-family: 'CourierNew-Bold', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+}
+.couriernew-bold-white-20px {
+  color: var(--white);
+  font-family: 'CourierNew-Bold', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+}
+.couriernew-bold-white-21px {
+  color: var(--white);
+  font-family: 'CourierNew-Bold', Helvetica, Arial, serif;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 700;
+}
+.couriernew-regular-normal-white-20px {
+  color: var(--white);
+  font-family: 'CourierNew-Regular', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+.expertise-12-10 {
+  background-color: rgba(18,18,31,1.0);
+  height: 1080px;
+  opacity: 1;
+  position: relative;
+  width: 1920px;
+}
+.expertise-12-10 .barre-9pMjwt {
+  --anima-z-index: 9;
+  background-color: transparent;
+  bottom: calc(37.58% - 2px);
+  height: 5px;
+  left: calc(34.78% - 262px);
+  opacity: 1;
+  position: absolute;
+  width: 752px;
+}
+.expertise-12-10 .barre-C61RwL {
+  --anima-z-index: 16;
+  background-color: transparent;
+  height: 170px;
+  left: 0px;
+  opacity: 1;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+.expertise-12-10 .composant-19-2-C61RwL {
+  --anima-z-index: 4;
+  background-color: transparent;
+  height: 23px;
+  left: 306px;
+  opacity: 1;
+  position: absolute;
+  top: 612px;
+  width: 416px;
+}
+.expertise-12-10 .composant-2-44-C61RwL {
+  --anima-z-index: 12;
+  background-color: transparent;
+  height: 72px;
+  left: 1395px;
+  opacity: 1;
+  position: absolute;
+  top: 806px;
+  width: 317px;
+}
+.expertise-12-10 .composant-3-51-9pMjwt {
+  --anima-z-index: 7;
+  background-color: transparent;
+  bottom: calc(49.51% - 33px);
+  height: 67px;
+  opacity: 1;
+  position: absolute;
+  right: 33px;
+  width: 230px;
+}
+.expertise-12-10 .de-la-data-science-ia-C61RwL {
+  --anima-z-index: 5;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'Courier-Regular', Helvetica, Arial, serif;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 271px;
+  letter-spacing: 0.48px;
+  line-height: 79px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 652px;
+  white-space: nowrap;
+  width: auto;
+}
+.expertise-12-10 .du-design-uxui-C61RwL {
+  --anima-z-index: 6;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'Courier-Regular', Helvetica, Arial, serif;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 271px;
+  letter-spacing: 0.48px;
+  line-height: 79px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 720px;
+  white-space: nowrap;
+  width: auto;
+}
+.expertise-12-10 .du-develop-web-mobile-Tb8HWi {
+  --anima-z-index: 0;
+  background-color: transparent;
+  color: rgba(115,123,242,1.0);
+  font-family: 'Courier-Bold', Helvetica, Arial, serif;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 700;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.48px;
+  line-height: 79px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: -28px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.expertise-12-10 .du-marketing-digital-C61RwL {
+  --anima-z-index: 7;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'Courier-Regular', Helvetica, Arial, serif;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 271px;
+  letter-spacing: 0.48px;
+  line-height: 79px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 788px;
+  white-space: nowrap;
+  width: auto;
+}
+.expertise-12-10 .expertises-9pMjwt {
+  --anima-z-index: 3;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'CourierNew-Bold', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  height: 25px;
+  left: calc(36.56% - 49px);
+  letter-spacing: 1.30px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: calc(46.21% - 12px);
+  white-space: nowrap;
+  width: 134px;
+}
+.expertise-12-10 .grille-de--petition-4-rzFrlZ {
+  --anima-z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 74px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 74px);
+}
+.expertise-12-10 .groupe-de-masques-2-rzFrlZ {
+  --anima-z-index: 1;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 171px;
+}
+.expertise-12-10 .icon-ionic-arrow-down-C61RwL {
+  --anima-z-index: 17;
+  background-color: transparent;
+  height: 21px;
+  left: 121px;
+  opacity: 1;
+  position: absolute;
+  top: 651px;
+  transform: rotate(89.00deg);
+  width: 35px;
+}
+.expertise-12-10 .icon-ionic-arrow-down-zDdkNI {
+  --anima-z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/icon-ionic-ios-arrow-down-11@1x.png);
+  background-size: 100% 100%;
+  height: calc(100.00% + 15px);
+  left: 7px;
+  opacity: 1;
+  position: absolute;
+  top: -7px;
+  transform: rotate(-89.00deg);
+  width: calc(100.00% - 14px);
+}
+.expertise-12-10 .icon-mater-rrow-right-C61RwL {
+  --anima-z-index: 14;
+  background-color: transparent;
+  background-image: url(../img/icon-material-keyboard-arrow-right-1@1x.png);
+  background-size: 100% 100%;
+  height: 18px;
+  left: 271px;
+  opacity: 1;
+  position: absolute;
+  top: 615px;
+  width: 11px;
+}
+.expertise-12-10 .je-cherche-C61RwL {
+  --anima-z-index: 2;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-size: 37px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 271px;
+  letter-spacing: 0.78px;
+  line-height: 79px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 465px;
+  white-space: nowrap;
+  width: auto;
+}
+.expertise-12-10 .je-souhait-etre-guide-C61RwL {
+  --anima-z-index: 10;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 1430px;
+  letter-spacing: 2.45px;
+  line-height: 45px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 470px;
+  white-space: nowrap;
+  width: auto;
+}
+.expertise-12-10 .ligne-3-Ib0dLL {
+  --anima-z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/ligne-3-16@1x.png);
+  background-size: 100% 100%;
+  height: 5px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: -2px;
+  width: 96px;
+}
+.expertise-12-10 .ligne-3-KJv6f2 {
+  --anima-z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/ligne-3-16@1x.png);
+  background-size: 100% 100%;
+  height: 5px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: -2px;
+  width: 96px;
+}
+.expertise-12-10 .ligne-3-PoMZbG {
+  --anima-z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/ligne-3-16@1x.png);
+  background-size: 100% 100%;
+  height: 5px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: -2px;
+  width: 96px;
+}
+.expertise-12-10 .ligne-3-tvEfTs {
+  --anima-z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/ligne-3-16@1x.png);
+  background-size: 100% 100%;
+  height: 5px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: -2px;
+  width: 96px;
+}
+.expertise-12-10 .ligne-8-C61RwL {
+  --anima-z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/ligne-8-1@1x.png);
+  background-size: 100% 100%;
+  height: 4px;
+  left: 494px;
+  opacity: 1;
+  position: absolute;
+  top: 518px;
+  width: 19px;
+}
+.expertise-12-10 .logo-blanc-9pMjwt {
+  --anima-z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/logo-blanc-10@1x.png);
+  background-size: 100% 100%;
+  bottom: 22px;
+  height: 105px;
+  left: 113px;
+  opacity: 1;
+  position: absolute;
+  width: 186px;
+}
+.expertise-12-10 .methodologie-9pMjwt {
+  --anima-z-index: 4;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'CourierNew-Bold', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  height: 25px;
+  left: calc(47.22% - 76px);
+  letter-spacing: 1.30px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: calc(46.21% - 12px);
+  white-space: nowrap;
+  width: 160px;
+}
+.expertise-12-10 .nous-contacter-9pMjwt {
+  --anima-z-index: 8;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'CourierNew-Bold', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  height: 25px;
+  letter-spacing: 1.30px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  right: 53px;
+  text-align: left;
+  top: calc(46.90% - 12px);
+  white-space: nowrap;
+  width: 187px;
+}
+.expertise-12-10 .offres-9pMjwt {
+  --anima-z-index: 2;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'CourierNew-Bold', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  height: 25px;
+  left: calc(26.59% - 22px);
+  letter-spacing: 1.30px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: calc(46.21% - 12px);
+  white-space: nowrap;
+  width: 81px;
+}
+.expertise-12-10 .prendre-rendez-vous-C61RwL {
+  --anima-z-index: 13;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'CourierNew-Bold', Helvetica, Arial, serif;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 1408px;
+  letter-spacing: 1.36px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 825px;
+  white-space: nowrap;
+  width: auto;
+}
+.expertise-12-10 .quelle-exp-rchez-vous-C61RwL {
+  --anima-z-index: 0;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 189px;
+  letter-spacing: 0.00px;
+  line-height: 79px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 254px;
+  white-space: nowrap;
+  width: auto;
+}
+.expertise-12-10 .question-12-C61RwL {
+  --anima-z-index: 8;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'Courier-Regular', Helvetica, Arial, serif;
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 992px;
+  letter-spacing: 0.40px;
+  line-height: 79px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 810px;
+  white-space: nowrap;
+  width: auto;
+}
+.expertise-12-10 .rectangle-12-9pMjwt {
+  --anima-z-index: 0;
+  background-color: rgba(18,18,32,1.0);
+  height: 100%;
+  left: 0px;
+  opacity: 0.8;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.expertise-12-10 .rectangle-17-C61RwL {
+  --anima-z-index: 15;
+  background-color: transparent;
+  background-image: url(../img/rectangle-17@1x.png);
+  background-size: 100% 100%;
+  height: 361px;
+  left: 1721px;
+  opacity: 1;
+  position: absolute;
+  top: 719px;
+  width: 199px;
+}
+.expertise-12-10 .rectangle-3-KQkAx0 {
+  --anima-z-index: 0;
+  background-color: rgba(115,123,242,1.0);
+  border-radius: 15px;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.expertise-12-10 .rectangle-4-yhfgSg {
+  --anima-z-index: 0;
+  background-color: transparent;
+  border: 3px solid rgba(115,123,242,1.0);
+  border-radius: 15px;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.expertise-12-10 .rectangle-5-C61RwL {
+  --anima-z-index: 1;
+  background-color: rgba(24,25,45,1.0);
+  border-radius: 25px;
+  height: 513px;
+  left: 189px;
+  opacity: 1;
+  position: absolute;
+  top: 404px;
+  width: 1008px;
+}
+.expertise-12-10 .rectangle-6-C61RwL {
+  --anima-z-index: 9;
+  background-color: rgba(24,25,45,1.0);
+  border-radius: 37px;
+  height: 513px;
+  left: 1319px;
+  opacity: 1;
+  position: absolute;
+  top: 404px;
+  width: 469px;
+}
+.expertise-12-10 .rectangle-8-sw2gdj {
+  --anima-z-index: 0;
+  background-color: rgba(115,123,242,1.0);
+  height: 100%;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 96px;
+}
+.expertise-12-10 .ressources-9pMjwt {
+  --anima-z-index: 5;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'CourierNew-Bold', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  height: 25px;
+  letter-spacing: 1.30px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  right: calc(42.05% - 56px);
+  text-align: left;
+  top: calc(46.21% - 12px);
+  white-space: nowrap;
+  width: 134px;
+}
+.expertise-12-10 .se-connecter-9pMjwt {
+  --anima-z-index: 6;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'CourierNew-Bold', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  height: 25px;
+  letter-spacing: 1.30px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  right: calc(16.65% - 27px);
+  text-align: left;
+  top: calc(46.21% - 12px);
+  white-space: nowrap;
+  width: 160px;
+}
+.expertise-12-10 .un-membre--vosbesoins-C61RwL {
+  --anima-z-index: 11;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'Inter', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 1401px;
+  letter-spacing: 0.00px;
+  line-height: 33px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 626px;
+  white-space: nowrap;
+  width: auto;
+}
+.expertise-12-10 .x0-1-KfJAVS {
+  --anima-z-index: 0;
+  background-color: transparent;
+  height: 0px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 2px;
+  width: 96px;
+}
+.expertise-12-10 .x1-10-KfJAVS {
+  --anima-z-index: 1;
+  background-color: transparent;
+  height: 0px;
+  left: 191px;
+  opacity: 1;
+  position: absolute;
+  top: 2px;
+  width: 96px;
+}
+.expertise-12-10 .x2-5-KfJAVS {
+  --anima-z-index: 2;
+  background-color: transparent;
+  height: 0px;
+  left: 382px;
+  opacity: 1;
+  position: absolute;
+  top: 2px;
+  width: 96px;
+}
+.expertise-12-10 .x3-1-KfJAVS {
+  --anima-z-index: 3;
+  background-color: transparent;
+  height: 0px;
+  left: 573px;
+  opacity: 1;
+  position: absolute;
+  top: 2px;
+  width: 96px;
+}
+.inter-medium-white-23px {
+  color: var(--white);
+  font-family: 'Inter', Helvetica, Arial, serif;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 500;
+}
+.inter-medium-white-24px {
+  color: var(--white);
+  font-family: 'Inter', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+}
+.montserrat-bold-abbey-25px {
+  color: var(--abbey);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 700;
+}
+.montserrat-bold-white-30px {
+  color: var(--white);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+}
+.montserrat-bold-white-67px {
+  color: var(--white);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-size: 67px;
+  font-style: normal;
+  font-weight: 700;
+}
+:root {
+  --abbey: rgba(79,79,85,1.0);
+  --cornflower-blue: rgba(115,123,242,1.0);
+  --mirage: rgba(24,25,45,1.0);
+  --vulcan: rgba(18,18,32,1.0);
+  --vulcan-2: rgba(18,18,31,1.0);
+  --white: rgba(255,255,255,1.0);
+}
+/* screen - expertise-22-6 */
+
+.courier-regular-normal-abbey-20px {
+  color: var(--abbey);
+  font-family: 'Courier-Regular', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+.couriernew-bold-cornflower-blue-20px {
+  color: var(--cornflower-blue);
+  font-family: 'CourierNew-Bold', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+}
+.couriernew-bold-white-20px {
+  color: var(--white);
+  font-family: 'CourierNew-Bold', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+}
+.couriernew-bold-white-21px {
+  color: var(--white);
+  font-family: 'CourierNew-Bold', Helvetica, Arial, serif;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 700;
+}
+.couriernew-regular-normal-white-20px {
+  color: var(--white);
+  font-family: 'CourierNew-Regular', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+.expertise-22-6 {
+  background-color: rgba(18,18,32,1.0);
+  height: 1080px;
+  opacity: 1;
+  position: relative;
+  width: 1920px;
+}
+.expertise-22-6 .ameliorer--s-internes-C61RwL {
+  --anima-z-index: 15;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'Courier-Regular', Helvetica, Arial, serif;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 271px;
+  letter-spacing: 0.48px;
+  line-height: 79px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 720px;
+  white-space: nowrap;
+  width: auto;
+}
+.expertise-22-6 .composant-2-24-C61RwL {
+  --anima-z-index: 20;
+  background-color: transparent;
+  height: 72px;
+  left: 1395px;
+  opacity: 1;
+  position: absolute;
+  top: 806px;
+  width: 317px;
+}
+.expertise-22-6 .composant-3-32-C61RwL {
+  --anima-z-index: 6;
+  background-color: transparent;
+  height: 67px;
+  left: 1659px;
+  opacity: 1;
+  position: absolute;
+  top: 51px;
+  width: 230px;
+}
+.expertise-22-6 .etre-innov-on-secteur-C61RwL {
+  --anima-z-index: 13;
+  background-color: transparent;
+  color: rgba(115,123,242,1.0);
+  font-family: 'Courier-Bold', Helvetica, Arial, serif;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 306px;
+  letter-spacing: 0.48px;
+  line-height: 79px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 584px;
+  white-space: nowrap;
+  width: auto;
+}
+.expertise-22-6 .etre-visib-e-en-ligne-C61RwL {
+  --anima-z-index: 16;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'Courier-Regular', Helvetica, Arial, serif;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 271px;
+  letter-spacing: 0.48px;
+  line-height: 79px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 788px;
+  white-space: nowrap;
+  width: auto;
+}
+.expertise-22-6 .expertises-C61RwL {
+  --anima-z-index: 2;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'CourierNew-Bold', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 639px;
+  letter-spacing: 1.30px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 66px;
+  white-space: nowrap;
+  width: auto;
+}
+.expertise-22-6 .icon-ionic-arrow-down-C61RwL {
+  --anima-z-index: 23;
+  background-color: transparent;
+  height: 21px;
+  left: 121px;
+  opacity: 1;
+  position: absolute;
+  top: 651px;
+  transform: rotate(89.00deg);
+  width: 35px;
+}
+.expertise-22-6 .icon-ionic-arrow-down-zDdkNI {
+  --anima-z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/icon-ionic-ios-arrow-down-11@1x.png);
+  background-size: 100% 100%;
+  height: calc(100.00% + 15px);
+  left: 7px;
+  opacity: 1;
+  position: absolute;
+  top: -7px;
+  transform: rotate(-89.00deg);
+  width: calc(100.00% - 14px);
+}
+.expertise-22-6 .icon-mater-rrow-right-C61RwL {
+  --anima-z-index: 22;
+  background-color: transparent;
+  background-image: url(../img/icon-material-keyboard-arrow-right-1@1x.png);
+  background-size: 100% 100%;
+  height: 18px;
+  left: 271px;
+  opacity: 1;
+  position: absolute;
+  top: 615px;
+  width: 11px;
+}
+.expertise-22-6 .je-cherche-obile-pour-C61RwL {
+  --anima-z-index: 11;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: "Montserrat", Helvetica, Arial, serif;
+  font-size: 37px;
+  height: auto;
+  left: 264px;
+  letter-spacing: 0.78px;
+  line-height: 45px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 482px;
+  white-space: nowrap;
+  width: auto;
+}
+.expertise-22-6 .je-souhait-etre-guide-C61RwL {
+  --anima-z-index: 18;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 1430px;
+  letter-spacing: 2.45px;
+  line-height: 45px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 470px;
+  white-space: nowrap;
+  width: auto;
+}
+.expertise-22-6 .ligne-7-C61RwL {
+  --anima-z-index: 8;
+  background-color: transparent;
+  background-image: url(../img/ligne-4@1x.png);
+  background-size: 100% 100%;
+  height: 5px;
+  left: 482px;
+  opacity: 1;
+  position: absolute;
+  top: 102px;
+  width: 96px;
+}
+.expertise-22-6 .ligne-8-C61RwL {
+  --anima-z-index: 12;
+  background-color: transparent;
+  background-image: url(../img/ligne-8-1@1x.png);
+  background-size: 100% 100%;
+  height: 4px;
+  left: 650px;
+  opacity: 1;
+  position: absolute;
+  top: 566px;
+  width: 19px;
+}
+.expertise-22-6 .logo-blanc-C61RwL {
+  --anima-z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/logo-blanc-10@1x.png);
+  background-size: 100% 100%;
+  height: 105px;
+  left: 109px;
+  opacity: 1;
+  position: absolute;
+  top: 37px;
+  width: 186px;
+}
+.expertise-22-6 .methodologie-C61RwL {
+  --anima-z-index: 3;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'CourierNew-Bold', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 821px;
+  letter-spacing: 1.30px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 66px;
+  white-space: nowrap;
+  width: auto;
+}
+.expertise-22-6 .nous-contacter-C61RwL {
+  --anima-z-index: 7;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'CourierNew-Bold', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 1682px;
+  letter-spacing: 1.30px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 67px;
+  white-space: nowrap;
+  width: auto;
+}
+.expertise-22-6 .offres-C61RwL {
+  --anima-z-index: 1;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'CourierNew-Bold', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 491px;
+  letter-spacing: 1.30px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 66px;
+  white-space: nowrap;
+  width: auto;
+}
+.expertise-22-6 .prendre-rendez-vous-C61RwL {
+  --anima-z-index: 21;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'CourierNew-Bold', Helvetica, Arial, serif;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 1408px;
+  letter-spacing: 1.36px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 825px;
+  white-space: nowrap;
+  width: auto;
+}
+.expertise-22-6 .quelle-exp-rchez-vous-C61RwL {
+  --anima-z-index: 9;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 189px;
+  letter-spacing: 0.00px;
+  line-height: 79px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 254px;
+  white-space: nowrap;
+  width: auto;
+}
+.expertise-22-6 .question-22-C61RwL {
+  --anima-z-index: 24;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'Courier-Regular', Helvetica, Arial, serif;
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 992px;
+  letter-spacing: 0.40px;
+  line-height: 79px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 810px;
+  white-space: nowrap;
+  width: auto;
+}
+.expertise-22-6 .rectangle-3-xVcNJZ {
+  --anima-z-index: 0;
+  background-color: rgba(115,123,242,1.0);
+  border-radius: 15px;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.expertise-22-6 .rectangle-4-dx0P81 {
+  --anima-z-index: 0;
+  background-color: transparent;
+  border: 3px solid rgba(115,123,242,1.0);
+  border-radius: 15px;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.expertise-22-6 .rectangle-5-C61RwL {
+  --anima-z-index: 10;
+  background-color: rgba(24,25,45,1.0);
+  border-radius: 25px;
+  height: 513px;
+  left: 189px;
+  opacity: 1;
+  position: absolute;
+  top: 404px;
+  width: 1008px;
+}
+.expertise-22-6 .rectangle-6-C61RwL {
+  --anima-z-index: 17;
+  background-color: rgba(24,25,45,1.0);
+  border-radius: 37px;
+  height: 513px;
+  left: 1319px;
+  opacity: 1;
+  position: absolute;
+  top: 404px;
+  width: 469px;
+}
+.expertise-22-6 .ressources-C61RwL {
+  --anima-z-index: 4;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'CourierNew-Bold', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 1020px;
+  letter-spacing: 1.30px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 66px;
+  white-space: nowrap;
+  width: auto;
+}
+.expertise-22-6 .se-connecter-C61RwL {
+  --anima-z-index: 5;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'CourierNew-Bold', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 1469px;
+  letter-spacing: 1.30px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 66px;
+  white-space: nowrap;
+  width: auto;
+}
+.expertise-22-6 .span0-yPjPvy {
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 700;
+}
+.expertise-22-6 .span1-yPjPvy {
+  color: rgba(115,123,242,1.0);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 700;
+}
+.expertise-22-6 .span2-yPjPvy {
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 700;
+}
+.expertise-22-6 .un-membre--vosbesoins-C61RwL {
+  --anima-z-index: 19;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'Inter', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 1401px;
+  letter-spacing: 0.00px;
+  line-height: 33px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 626px;
+  white-space: nowrap;
+  width: auto;
+}
+.expertise-22-6 .vendre-sur-internet-C61RwL {
+  --anima-z-index: 14;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'Courier-Regular', Helvetica, Arial, serif;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 271px;
+  letter-spacing: 0.48px;
+  line-height: 79px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 652px;
+  white-space: nowrap;
+  width: auto;
+}
+.inter-medium-white-23px {
+  color: var(--white);
+  font-family: 'Inter', Helvetica, Arial, serif;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 500;
+}
+.inter-medium-white-24px {
+  color: var(--white);
+  font-family: 'Inter', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+}
+.montserrat-bold-abbey-25px {
+  color: var(--abbey);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 700;
+}
+.montserrat-bold-white-30px {
+  color: var(--white);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+}
+.montserrat-bold-white-67px {
+  color: var(--white);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-size: 67px;
+  font-style: normal;
+  font-weight: 700;
+}
+:root {
+  --abbey: rgba(79,79,85,1.0);
+  --cornflower-blue: rgba(115,123,242,1.0);
+  --mirage: rgba(24,25,45,1.0);
+  --vulcan: rgba(18,18,32,1.0);
+  --vulcan-2: rgba(18,18,31,1.0);
+  --white: rgba(255,255,255,1.0);
+}
+/* screen - web-1920-12 */
+
+.courier-regular-normal-abbey-20px {
+  color: var(--abbey);
+  font-family: 'Courier-Regular', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+.couriernew-bold-cornflower-blue-20px {
+  color: var(--cornflower-blue);
+  font-family: 'CourierNew-Bold', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+}
+.couriernew-bold-white-20px {
+  color: var(--white);
+  font-family: 'CourierNew-Bold', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+}
+.couriernew-bold-white-21px {
+  color: var(--white);
+  font-family: 'CourierNew-Bold', Helvetica, Arial, serif;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 700;
+}
+.couriernew-regular-normal-white-20px {
+  color: var(--white);
+  font-family: 'CourierNew-Regular', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+.inter-medium-white-23px {
+  color: var(--white);
+  font-family: 'Inter', Helvetica, Arial, serif;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 500;
+}
+.inter-medium-white-24px {
+  color: var(--white);
+  font-family: 'Inter', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+}
+.montserrat-bold-abbey-25px {
+  color: var(--abbey);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 700;
+}
+.montserrat-bold-white-30px {
+  color: var(--white);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+}
+.montserrat-bold-white-67px {
+  color: var(--white);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-size: 67px;
+  font-style: normal;
+  font-weight: 700;
+}
+.web-1920-12 {
+  background-color: rgba(18,18,32,1.0);
+  height: 1080px;
+  opacity: 1;
+  position: relative;
+  width: 1920px;
+}
+.web-1920-12 .composant-2-25-C61RwL {
+  --anima-z-index: 14;
+  background-color: transparent;
+  height: 72px;
+  left: 1395px;
+  opacity: 1;
+  position: absolute;
+  top: 806px;
+  width: 317px;
+}
+.web-1920-12 .composant-3-33-C61RwL {
+  --anima-z-index: 6;
+  background-color: transparent;
+  height: 67px;
+  left: 1659px;
+  opacity: 1;
+  position: absolute;
+  top: 51px;
+  width: 230px;
+}
+.web-1920-12 .composant-3-34-C61RwL {
+  --anima-z-index: 17;
+  background-color: transparent;
+  height: 83px;
+  left: 251px;
+  opacity: 1;
+  position: absolute;
+  top: 706px;
+  width: 300px;
+}
+.web-1920-12 .composant-3-35-C61RwL {
+  --anima-z-index: 18;
+  background-color: transparent;
+  height: 83px;
+  left: 652px;
+  opacity: 1;
+  position: absolute;
+  top: 706px;
+  width: 300px;
+}
+.web-1920-12 .deposer-mon-projet-C61RwL {
+  --anima-z-index: 20;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'CourierNew-Bold', Helvetica, Arial, serif;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 665px;
+  letter-spacing: 1.49px;
+  line-height: 42px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 727px;
+  white-space: nowrap;
+  width: auto;
+}
+.web-1920-12 .en-savoir-plus-C61RwL {
+  --anima-z-index: 19;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'CourierNew-Bold', Helvetica, Arial, serif;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 295px;
+  letter-spacing: 1.49px;
+  line-height: 42px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 727px;
+  white-space: nowrap;
+  width: auto;
+}
+.web-1920-12 .expertises-C61RwL {
+  --anima-z-index: 2;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'CourierNew-Bold', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 639px;
+  letter-spacing: 1.30px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 66px;
+  white-space: nowrap;
+  width: auto;
+}
+.web-1920-12 .icon-ionic-arrow-down-C61RwL {
+  --anima-z-index: 21;
+  background-color: transparent;
+  height: 25px;
+  left: 938px;
+  opacity: 1;
+  position: absolute;
+  top: 981px;
+  width: 43px;
+}
+.web-1920-12 .icon-ionic-arrow-down-VMr6Om {
+  --anima-z-index: 22;
+  background-color: transparent;
+  height: 21px;
+  left: 121px;
+  opacity: 1;
+  position: absolute;
+  top: 651px;
+  transform: rotate(89.00deg);
+  width: 35px;
+}
+.web-1920-12 .icon-ionic-arrow-down-l5nFbf {
+  --anima-z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/icon-ionic-ios-arrow-down-10@1x.png);
+  background-size: 100% 100%;
+  height: calc(100.00% + 15px);
+  left: 7px;
+  opacity: 1;
+  position: absolute;
+  top: -7px;
+  transform: rotate(-89.00deg);
+  width: calc(100.00% - 14px);
+}
+.web-1920-12 .icon-ionic-arrow-down-zDdkNI {
+  --anima-z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/icon-ionic-ios-arrow-down-12@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 1px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.web-1920-12 .je-cherche-on-secteur-C61RwL {
+  --anima-z-index: 16;
+  background-color: transparent;
+  color: rgba(115,123,242,1.0);
+  font-family: "Montserrat", Helvetica, Arial, serif;
+  font-size: 37px;
+  height: auto;
+  left: 251px;
+  letter-spacing: 0.78px;
+  line-height: 45px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 482px;
+  white-space: nowrap;
+  width: auto;
+}
+.web-1920-12 .je-souhait-etre-guide-C61RwL {
+  --anima-z-index: 12;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 1430px;
+  letter-spacing: 2.45px;
+  line-height: 45px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 470px;
+  white-space: nowrap;
+  width: auto;
+}
+.web-1920-12 .ligne-7-C61RwL {
+  --anima-z-index: 8;
+  background-color: transparent;
+  background-image: url(../img/ligne-4@1x.png);
+  background-size: 100% 100%;
+  height: 5px;
+  left: 482px;
+  opacity: 1;
+  position: absolute;
+  top: 102px;
+  width: 96px;
+}
+.web-1920-12 .logo-blanc-C61RwL {
+  --anima-z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/logo-blanc-10@1x.png);
+  background-size: 100% 100%;
+  height: 105px;
+  left: 109px;
+  opacity: 1;
+  position: absolute;
+  top: 37px;
+  width: 186px;
+}
+.web-1920-12 .methodologie-C61RwL {
+  --anima-z-index: 3;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'CourierNew-Bold', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 821px;
+  letter-spacing: 1.30px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 66px;
+  white-space: nowrap;
+  width: auto;
+}
+.web-1920-12 .nous-contacter-C61RwL {
+  --anima-z-index: 7;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'CourierNew-Bold', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 1682px;
+  letter-spacing: 1.30px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 67px;
+  white-space: nowrap;
+  width: auto;
+}
+.web-1920-12 .offres-C61RwL {
+  --anima-z-index: 1;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'CourierNew-Bold', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 491px;
+  letter-spacing: 1.30px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 66px;
+  white-space: nowrap;
+  width: auto;
+}
+.web-1920-12 .prendre-rendez-vous-C61RwL {
+  --anima-z-index: 15;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'CourierNew-Bold', Helvetica, Arial, serif;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 1408px;
+  letter-spacing: 1.36px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 825px;
+  white-space: nowrap;
+  width: auto;
+}
+.web-1920-12 .quelle-exp-rchez-vous-C61RwL {
+  --anima-z-index: 9;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 189px;
+  letter-spacing: 0.00px;
+  line-height: 79px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 254px;
+  white-space: nowrap;
+  width: auto;
+}
+.web-1920-12 .rectangle-3-J9PntI {
+  --anima-z-index: 0;
+  background-color: rgba(115,123,242,1.0);
+  border-radius: 15px;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.web-1920-12 .rectangle-4-NR6ZjR {
+  --anima-z-index: 0;
+  background-color: transparent;
+  border: 3px solid rgba(115,123,242,1.0);
+  border-radius: 15px;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.web-1920-12 .rectangle-4-Zx7Enz {
+  --anima-z-index: 0;
+  background-color: transparent;
+  border: 3px solid rgba(115,123,242,1.0);
+  border-radius: 15px;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.web-1920-12 .rectangle-4-xCn6Pv {
+  --anima-z-index: 0;
+  background-color: transparent;
+  border: 3px solid rgba(115,123,242,1.0);
+  border-radius: 15px;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.web-1920-12 .rectangle-5-C61RwL {
+  --anima-z-index: 10;
+  background-color: rgba(24,25,45,1.0);
+  border-radius: 25px;
+  height: 513px;
+  left: 189px;
+  opacity: 1;
+  position: absolute;
+  top: 404px;
+  width: 1008px;
+}
+.web-1920-12 .rectangle-6-C61RwL {
+  --anima-z-index: 11;
+  background-color: rgba(24,25,45,1.0);
+  border-radius: 37px;
+  height: 513px;
+  left: 1319px;
+  opacity: 1;
+  position: absolute;
+  top: 404px;
+  width: 469px;
+}
+.web-1920-12 .ressources-C61RwL {
+  --anima-z-index: 4;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'CourierNew-Bold', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 1020px;
+  letter-spacing: 1.30px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 66px;
+  white-space: nowrap;
+  width: auto;
+}
+.web-1920-12 .se-connecter-C61RwL {
+  --anima-z-index: 5;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'CourierNew-Bold', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 1469px;
+  letter-spacing: 1.30px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 66px;
+  white-space: nowrap;
+  width: auto;
+}
+.web-1920-12 .span0-ANYbJM {
+  color: rgba(255,255,255,1.0);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 700;
+}
+.web-1920-12 .span1-ANYbJM {
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 700;
+}
+.web-1920-12 .span2-ANYbJM {
+  color: rgba(255,255,255,1.0);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 700;
+}
+.web-1920-12 .span3-ANYbJM {
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 700;
+}
+.web-1920-12 .un-membre--vosbesoins-C61RwL {
+  --anima-z-index: 13;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'Inter', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 1401px;
+  letter-spacing: 0.00px;
+  line-height: 33px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 626px;
+  white-space: nowrap;
+  width: auto;
+}
+:root {
+  --abbey: rgba(79,79,85,1.0);
+  --cornflower-blue: rgba(115,123,242,1.0);
+  --mirage: rgba(24,25,45,1.0);
+  --vulcan: rgba(18,18,32,1.0);
+  --vulcan-2: rgba(18,18,31,1.0);
+  --white: rgba(255,255,255,1.0);
+}

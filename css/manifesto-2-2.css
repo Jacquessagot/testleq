@@ -1,0 +1,1084 @@
+/* screen - manifesto-2-2 */
+
+.courier-regular-normal-abbey-20px {
+  color: var(--abbey);
+  font-family: 'Courier-Regular', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+.couriernew-bold-cornflower-blue-20px {
+  color: var(--cornflower-blue);
+  font-family: 'CourierNew-Bold', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+}
+.couriernew-bold-white-20px {
+  color: var(--white);
+  font-family: 'CourierNew-Bold', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+}
+.couriernew-bold-white-21px {
+  color: var(--white);
+  font-family: 'CourierNew-Bold', Helvetica, Arial, serif;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 700;
+}
+.couriernew-regular-normal-white-20px {
+  color: var(--white);
+  font-family: 'CourierNew-Regular', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+.inter-medium-white-23px {
+  color: var(--white);
+  font-family: 'Inter', Helvetica, Arial, serif;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 500;
+}
+.inter-medium-white-24px {
+  color: var(--white);
+  font-family: 'Inter', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+}
+.manifesto-2-2 {
+  background-color: var(--vulcan);
+  height: 1080px;
+  position: relative;
+  width: 1920px;
+}
+.manifesto-2-2 .composant-3-29-C61RwL {
+  background-color: transparent;
+  border: 3px solid var(--cornflower-blue);
+  border-radius: 15px;
+  height: 67px;
+  left: 1658px;
+  position: absolute;
+  top: 50px;
+  width: 230px;
+}
+.manifesto-2-2 .expertises-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 638px;
+  letter-spacing: 1.30px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 65px;
+  white-space: nowrap;
+  width: auto;
+}
+.manifesto-2-2 .icon-ionic-arrow-down-C61RwL {
+  background-color: transparent;
+  height: 25px;
+  left: 938px;
+  position: absolute;
+  top: 981px;
+  width: 43px;
+}
+.manifesto-2-2 .icon-ionic-arrow-down-zDdkNI {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.manifesto-2-2 .ligne-4-C61RwL {
+  background-color: transparent;
+  height: 5px;
+  left: 482px;
+  position: absolute;
+  top: 101px;
+  width: 96px;
+}
+.manifesto-2-2 .logo-blanc-C61RwL {
+  background-color: transparent;
+  height: 105px;
+  left: 108px;
+  position: absolute;
+  top: 36px;
+  width: 186px;
+}
+.manifesto-2-2 .manifesto-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 188px;
+  letter-spacing: 0.00px;
+  line-height: 79px;
+  position: absolute;
+  text-align: left;
+  top: 246px;
+  white-space: nowrap;
+  width: auto;
+}
+.manifesto-2-2 .methodologie-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 820px;
+  letter-spacing: 1.30px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 65px;
+  white-space: nowrap;
+  width: auto;
+}
+.manifesto-2-2 .nous-contacter-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 1681px;
+  letter-spacing: 1.30px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 66px;
+  white-space: nowrap;
+  width: auto;
+}
+.manifesto-2-2 .nous-trava-ive-de-fre-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Courier-Regular', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  height: 388px;
+  left: 188px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 351px;
+  width: 1344px;
+}
+.manifesto-2-2 .offres-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 490px;
+  letter-spacing: 1.30px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 65px;
+  white-space: nowrap;
+  width: auto;
+}
+.manifesto-2-2 .ressources-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 1019px;
+  letter-spacing: 1.30px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 65px;
+  white-space: nowrap;
+  width: auto;
+}
+.manifesto-2-2 .se-connecter-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 1468px;
+  letter-spacing: 1.30px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 65px;
+  white-space: nowrap;
+  width: auto;
+}
+.montserrat-bold-abbey-25px {
+  color: var(--abbey);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 700;
+}
+.montserrat-bold-white-30px {
+  color: var(--white);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+}
+.montserrat-bold-white-67px {
+  color: var(--white);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-size: 67px;
+  font-style: normal;
+  font-weight: 700;
+}
+:root {
+  --abbey: rgba(79,79,85,1.0);
+  --cornflower-blue: rgba(115,123,242,1.0);
+  --mirage: rgba(24,25,45,1.0);
+  --vulcan: rgba(18,18,32,1.0);
+  --vulcan-2: rgba(18,18,31,1.0);
+  --white: rgba(255,255,255,1.0);
+}
+/* screen - offres-4 */
+
+.courier-regular-normal-abbey-20px {
+  color: var(--abbey);
+  font-family: 'Courier-Regular', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+.couriernew-bold-cornflower-blue-20px {
+  color: var(--cornflower-blue);
+  font-family: 'CourierNew-Bold', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+}
+.couriernew-bold-white-20px {
+  color: var(--white);
+  font-family: 'CourierNew-Bold', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+}
+.couriernew-bold-white-21px {
+  color: var(--white);
+  font-family: 'CourierNew-Bold', Helvetica, Arial, serif;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 700;
+}
+.couriernew-regular-normal-white-20px {
+  color: var(--white);
+  font-family: 'CourierNew-Regular', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+.inter-medium-white-23px {
+  color: var(--white);
+  font-family: 'Inter', Helvetica, Arial, serif;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 500;
+}
+.inter-medium-white-24px {
+  color: var(--white);
+  font-family: 'Inter', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+}
+.montserrat-bold-abbey-25px {
+  color: var(--abbey);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 700;
+}
+.montserrat-bold-white-30px {
+  color: var(--white);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+}
+.montserrat-bold-white-67px {
+  color: var(--white);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-size: 67px;
+  font-style: normal;
+  font-weight: 700;
+}
+.offres-4 {
+  background-color: var(--vulcan-2);
+  height: 1080px;
+  position: relative;
+  width: 1920px;
+}
+.offres-4 .barre-C61RwL {
+  background-color: transparent;
+  height: 5px;
+  left: 406px;
+  position: absolute;
+  top: 103px;
+  width: 752px;
+}
+.offres-4 .composant-1-1-036jSs {
+  background-color: transparent;
+  height: calc(100.00% - 6px);
+  left: 2px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 2px);
+}
+.offres-4 .composant-14-2-C61RwL {
+  background-color: transparent;
+  height: 23px;
+  left: 653px;
+  position: absolute;
+  top: 73px;
+  width: 132px;
+}
+.offres-4 .composant-15-2-C61RwL {
+  background-color: transparent;
+  height: 23px;
+  left: 489px;
+  position: fixed;
+  top: 73px;
+  width: 81px;
+}
+.offres-4 .composant-16-1-QWKFVS {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.offres-4 .composant-17-2-C61RwL {
+  background-color: transparent;
+  height: 23px;
+  left: 831px;
+  position: absolute;
+  top: 73px;
+  width: 160px;
+}
+.offres-4 .composant-18-2-C61RwL {
+  background-color: transparent;
+  height: 23px;
+  left: 1035px;
+  position: absolute;
+  top: 73px;
+  width: 134px;
+}
+.offres-4 .composant-2-1-C61RwL {
+  background-color: var(--cornflower-blue);
+  border-radius: 15px;
+  height: 72px;
+  left: 140px;
+  position: absolute;
+  top: 808px;
+  width: 317px;
+}
+.offres-4 .composant-22-1-C61RwL {
+  background-color: transparent;
+  height: 23px;
+  left: 1467px;
+  position: absolute;
+  top: 73px;
+  width: 160px;
+}
+.offres-4 .composant-3-1-C61RwL {
+  background-color: transparent;
+  border: 3px solid var(--cornflower-blue);
+  border-radius: 15px;
+  height: 67px;
+  left: 1657px;
+  position: absolute;
+  top: 52px;
+  width: 230px;
+}
+.offres-4 .deposer-mon-projet-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 174px;
+  letter-spacing: 1.36px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 827px;
+  white-space: nowrap;
+  width: auto;
+}
+.offres-4 .des-free-l-s-digitaux-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 140px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 637px;
+  white-space: nowrap;
+  width: auto;
+}
+.offres-4 .ellipse-1-036jSs {
+  background-color: transparent;
+  height: 11px;
+  position: absolute;
+  right: calc(47.67% - 5px);
+  top: 22px;
+  width: 11px;
+}
+.offres-4 .ellipse-3-036jSs {
+  background-color: transparent;
+  bottom: 0px;
+  height: 74px;
+  left: 0px;
+  position: absolute;
+  width: 74px;
+}
+.offres-4 .expertises-Kvkc8P {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 1.30px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: -6px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.offres-4 .formes-C61RwL {
+  background-color: transparent;
+  height: 762px;
+  left: 1343px;
+  position: absolute;
+  top: 238px;
+  width: 741px;
+}
+.offres-4 .grille-de--petition-1-036jSs {
+  background-color: transparent;
+  height: 326px;
+  position: absolute;
+  right: calc(34.14% - 55px);
+  top: 21px;
+  width: 161px;
+}
+.offres-4 .grille-de--petition-2-036jSs {
+  background-color: transparent;
+  bottom: 21px;
+  height: 326px;
+  left: 45px;
+  position: absolute;
+  width: 325px;
+}
+.offres-4 .grille-de--petition-4-9pMjwt {
+  background-color: transparent;
+  height: 100%;
+  left: 74px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 74px);
+}
+.offres-4 .groupe-de-masques-2-9pMjwt {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 171px;
+}
+.offres-4 .icon-ionic-arrow-down-C61RwL {
+  background-color: transparent;
+  height: 25px;
+  left: 938px;
+  position: absolute;
+  top: 981px;
+  width: 43px;
+}
+.offres-4 .icon-ionic-arrow-down-zDdkNI {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.offres-4 .les-meille-os-experts-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 140px;
+  letter-spacing: 0.00px;
+  line-height: 79px;
+  position: absolute;
+  text-align: left;
+  top: 352px;
+  white-space: nowrap;
+  width: auto;
+}
+.offres-4 .ligne-3-6BazAb {
+  background-color: transparent;
+  height: 5px;
+  left: 0px;
+  position: absolute;
+  top: -2px;
+  width: 96px;
+}
+.offres-4 .ligne-3-Hhv5YU {
+  background-color: transparent;
+  height: 5px;
+  left: 0px;
+  position: absolute;
+  top: -2px;
+  width: 96px;
+}
+.offres-4 .ligne-3-XniE9Y {
+  background-color: transparent;
+  height: 5px;
+  left: 0px;
+  position: absolute;
+  top: -2px;
+  width: 96px;
+}
+.offres-4 .ligne-3-lZFfJe {
+  background-color: transparent;
+  height: 5px;
+  left: 0px;
+  position: absolute;
+  top: -2px;
+  width: 96px;
+}
+.offres-4 .logo-blanc-C61RwL {
+  background-color: transparent;
+  height: 105px;
+  left: 113px;
+  position: absolute;
+  top: 43px;
+  width: 186px;
+}
+.offres-4 .methodologie-ki014G {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 1.30px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: -6px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.offres-4 .nous-contacter-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 1680px;
+  letter-spacing: 1.30px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 68px;
+  white-space: nowrap;
+  width: auto;
+}
+.offres-4 .offres-73gKWO {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 1.30px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: -6px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.offres-4 .rectangle-1-8HNCl8 {
+  background-color: transparent;
+  height: 338px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 338px;
+}
+.offres-4 .rectangle-2-8HNCl8 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 348px;
+  position: absolute;
+  right: 1px;
+  width: 364px;
+}
+.offres-4 .rectangle-8-T0kAMz {
+  background-color: var(--cornflower-blue);
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 96px;
+}
+.offres-4 .ressources-L3oIxm {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 1.30px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: -6px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.offres-4 .se-connecter-FsSxC4 {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 1.30px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: -6px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.offres-4 .x0-1-3YItha {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+.offres-4 .x0-1-R1AROT {
+  background-color: transparent;
+  height: 0px;
+  left: 0px;
+  position: absolute;
+  top: 2px;
+  width: 96px;
+}
+.offres-4 .x0-jx6TW6 {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+.offres-4 .x1-10-R1AROT {
+  background-color: transparent;
+  height: 0px;
+  left: 191px;
+  position: absolute;
+  top: 2px;
+  width: 96px;
+}
+.offres-4 .x1-5-3YItha {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 70px;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+.offres-4 .x1-jx6TW6 {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 71px;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+.offres-4 .x10-1-3YItha {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 0px;
+  position: absolute;
+  top: 150px;
+  width: 13px;
+}
+.offres-4 .x10-jx6TW6 {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 71px;
+  position: absolute;
+  top: 225px;
+  width: 13px;
+}
+.offres-4 .x11-1-3YItha {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 70px;
+  position: absolute;
+  top: 150px;
+  width: 13px;
+}
+.offres-4 .x11-jx6TW6 {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 142px;
+  position: absolute;
+  top: 225px;
+  width: 13px;
+}
+.offres-4 .x12-1-3YItha {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 140px;
+  position: absolute;
+  top: 150px;
+  width: 13px;
+}
+.offres-4 .x12-jx6TW6 {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 0px;
+  position: absolute;
+  top: 300px;
+  width: 13px;
+}
+.offres-4 .x13-1-3YItha {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 210px;
+  position: absolute;
+  top: 150px;
+  width: 13px;
+}
+.offres-4 .x13-jx6TW6 {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 71px;
+  position: absolute;
+  top: 300px;
+  width: 13px;
+}
+.offres-4 .x14-1-3YItha {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 280px;
+  position: absolute;
+  top: 150px;
+  width: 13px;
+}
+.offres-4 .x14-jx6TW6 {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 142px;
+  position: absolute;
+  top: 300px;
+  width: 13px;
+}
+.offres-4 .x15-3YItha {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 0px;
+  position: absolute;
+  top: 225px;
+  width: 13px;
+}
+.offres-4 .x16-3YItha {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 70px;
+  position: absolute;
+  top: 225px;
+  width: 13px;
+}
+.offres-4 .x17-3YItha {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 140px;
+  position: absolute;
+  top: 225px;
+  width: 13px;
+}
+.offres-4 .x18-3YItha {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 210px;
+  position: absolute;
+  top: 225px;
+  width: 13px;
+}
+.offres-4 .x19-3YItha {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 280px;
+  position: absolute;
+  top: 225px;
+  width: 13px;
+}
+.offres-4 .x2-1-3YItha {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 140px;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+.offres-4 .x2-5-R1AROT {
+  background-color: transparent;
+  height: 0px;
+  left: 382px;
+  position: absolute;
+  top: 2px;
+  width: 96px;
+}
+.offres-4 .x2-jx6TW6 {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 142px;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+.offres-4 .x20-3YItha {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 0px;
+  position: absolute;
+  top: 300px;
+  width: 13px;
+}
+.offres-4 .x21-3YItha {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 70px;
+  position: absolute;
+  top: 300px;
+  width: 13px;
+}
+.offres-4 .x22-3YItha {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 140px;
+  position: absolute;
+  top: 300px;
+  width: 13px;
+}
+.offres-4 .x23-3YItha {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 210px;
+  position: absolute;
+  top: 300px;
+  width: 13px;
+}
+.offres-4 .x24-3YItha {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 280px;
+  position: absolute;
+  top: 300px;
+  width: 13px;
+}
+.offres-4 .x3-1-3YItha {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 210px;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+.offres-4 .x3-1-R1AROT {
+  background-color: transparent;
+  height: 0px;
+  left: 573px;
+  position: absolute;
+  top: 2px;
+  width: 96px;
+}
+.offres-4 .x3-jx6TW6 {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 0px;
+  position: absolute;
+  top: 75px;
+  width: 13px;
+}
+.offres-4 .x4-1-3YItha {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 280px;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+.offres-4 .x4-jx6TW6 {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 71px;
+  position: absolute;
+  top: 75px;
+  width: 13px;
+}
+.offres-4 .x5-1-3YItha {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 0px;
+  position: absolute;
+  top: 75px;
+  width: 13px;
+}
+.offres-4 .x5-jx6TW6 {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 142px;
+  position: absolute;
+  top: 75px;
+  width: 13px;
+}
+.offres-4 .x6-1-3YItha {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 70px;
+  position: absolute;
+  top: 75px;
+  width: 13px;
+}
+.offres-4 .x6-jx6TW6 {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 0px;
+  position: absolute;
+  top: 150px;
+  width: 13px;
+}
+.offres-4 .x7-1-3YItha {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 140px;
+  position: absolute;
+  top: 75px;
+  width: 13px;
+}
+.offres-4 .x7-jx6TW6 {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 71px;
+  position: absolute;
+  top: 150px;
+  width: 13px;
+}
+.offres-4 .x8-1-3YItha {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 210px;
+  position: absolute;
+  top: 75px;
+  width: 13px;
+}
+.offres-4 .x8-jx6TW6 {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 142px;
+  position: absolute;
+  top: 150px;
+  width: 13px;
+}
+.offres-4 .x9-1-3YItha {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 280px;
+  position: absolute;
+  top: 75px;
+  width: 13px;
+}
+.offres-4 .x9-jx6TW6 {
+  background-color: transparent;
+  background-image: url(../img/ellipse-2-100@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 0px;
+  position: absolute;
+  top: 225px;
+  width: 13px;
+}
+:root {
+  --abbey: rgba(79,79,85,1.0);
+  --cornflower-blue: rgba(115,123,242,1.0);
+  --mirage: rgba(24,25,45,1.0);
+  --vulcan: rgba(18,18,32,1.0);
+  --vulcan-2: rgba(18,18,31,1.0);
+  --white: rgba(255,255,255,1.0);
+}
+@media screen and (max-width: 1919px) {
+  .manifesto-2-2 { 
+    display: none;
+   }
+  .offres-4 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1920px) {
+}
